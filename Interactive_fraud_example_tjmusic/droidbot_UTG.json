@@ -1,0 +1,151 @@
+[
+  {
+    "eventType": "keyEvent", 
+    "endState": "homescreen", 
+    "startState": "start", 
+    "event": "KEYCODE_HOME", 
+    "id": 1
+  }, 
+  {
+    "eventType": "startActivity", 
+    "endState": "2017-03-08_160020", 
+    "startState": "homescreen", 
+    "event": "com.android.yatree.taijiaomusic/com.android.yatree.taijiaomusic.tjmusicActivity", 
+    "id": 2
+  }, 
+  {
+    "eventType": "touchEvent", 
+    "endState": "2017-03-08_160037", 
+    "event": [
+      {
+        "temp_id": 5, 
+        "parent": 4, 
+        "view_str": "class:android.widget.LinearLayout,resource_id:id/0x8765406,size:1080*1701,text:None", 
+        "text": null, 
+        "resource_id": "id/0x8765406", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            75
+          ], 
+          [
+            1080, 
+            1776
+          ]
+        ], 
+        "children": [], 
+        "focused": false, 
+        "class": "android.widget.LinearLayout", 
+        "size": "1080*1701"
+      }
+    ], 
+    "startState": "2017-03-08_160020", 
+    "y": 925, 
+    "x": 540, 
+    "id": 3
+  }, 
+  {
+    "eventType": "touchEvent", 
+    "endState": "2017-03-08_160037", 
+    "event": [
+      {
+        "temp_id": 5, 
+        "parent": 4, 
+        "view_str": "class:android.webkit.WebView,resource_id:id/wv,size:1080*1701,text:None", 
+        "text": null, 
+        "resource_id": "id/wv", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            75
+          ], 
+          [
+            1080, 
+            1776
+          ]
+        ], 
+        "children": [], 
+        "focused": true, 
+        "class": "android.webkit.WebView", 
+        "size": "1080*1701"
+      }
+    ], 
+    "startState": "2017-03-08_160037", 
+    "y": 925, 
+    "x": 540, 
+    "id": 4
+  }, 
+  {
+    "eventType": "keyEvent", 
+    "endState": "2017-03-08_160110", 
+    "startState": "2017-03-08_160037", 
+    "event": "KEYCODE_BACK", 
+    "id": 5
+  }, 
+  {
+    "eventType": "touchEvent", 
+    "endState": "2017-03-08_160128", 
+    "event": [
+      {
+        "temp_id": 5, 
+        "parent": 4, 
+        "view_str": "class:android.widget.LinearLayout,resource_id:id/0x8765406,size:1080*1701,text:None", 
+        "text": null, 
+        "resource_id": "id/0x8765406", 
+        "enabled": true, 
+        "bounds": [
+          [
+            0, 
+            75
+          ], 
+          [
+            1080, 
+            1776
+          ]
+        ], 
+        "children": [], 
+        "focused": false, 
+        "class": "android.widget.LinearLayout", 
+        "size": "1080*1701"
+      }
+    ], 
+    "startState": "2017-03-08_160110", 
+    "y": 1250, 
+    "x": 726, 
+    "id": 6
+  }, 
+  {
+    "eventType": "touchEvent", 
+    "endState": "2017-03-08_160037", 
+    "event": [
+      {
+        "temp_id": 19, 
+        "parent": 15, 
+        "view_str": "class:android.widget.Button,resource_id:id/button2,size:474*144,text:\u4e0d\u786e\u5b9a", 
+        "text": "\u4e0d\u786e\u5b9a", 
+        "resource_id": "id/button2", 
+        "enabled": true, 
+        "bounds": [
+          [
+            543, 
+            1005
+          ], 
+          [
+            1017, 
+            1149
+          ]
+        ], 
+        "children": [], 
+        "focused": false, 
+        "class": "android.widget.Button", 
+        "size": "474*144"
+      }
+    ], 
+    "startState": "2017-03-08_160128", 
+    "y": 1077, 
+    "x": 780, 
+    "id": 7
+  }
+]

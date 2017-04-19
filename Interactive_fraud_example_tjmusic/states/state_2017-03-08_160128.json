@@ -1,0 +1,555 @@
+{
+  "current_traffic": "7411640\r\n", 
+  "views": [
+    {
+      "temp_id": 0, 
+      "parent": null, 
+      "resource_id": "NO_ID", 
+      "text": null, 
+      "view_str": "class:com.android.internal.policy.impl.PhoneWindow$DecorView,resource_id:NO_ID,size:1048*576,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          16, 
+          637
+        ], 
+        [
+          1064, 
+          1213
+        ]
+      ], 
+      "class": "com.android.internal.policy.impl.PhoneWindow$DecorView", 
+      "focused": false, 
+      "children": [
+        1
+      ], 
+      "size": "1048*576"
+    }, 
+    {
+      "temp_id": 1, 
+      "parent": 0, 
+      "resource_id": "NO_ID", 
+      "text": null, 
+      "view_str": "class:android.widget.FrameLayout,resource_id:NO_ID,size:1048*576,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          16, 
+          637
+        ], 
+        [
+          1064, 
+          1213
+        ]
+      ], 
+      "class": "android.widget.FrameLayout", 
+      "focused": false, 
+      "children": [
+        2, 
+        21
+      ], 
+      "size": "1048*576"
+    }, 
+    {
+      "temp_id": 2, 
+      "parent": 1, 
+      "resource_id": "id/content", 
+      "text": null, 
+      "view_str": "class:android.widget.FrameLayout,resource_id:id/content,size:1048*576,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          16, 
+          637
+        ], 
+        [
+          1064, 
+          1213
+        ]
+      ], 
+      "class": "android.widget.FrameLayout", 
+      "focused": false, 
+      "children": [
+        3
+      ], 
+      "size": "1048*576"
+    }, 
+    {
+      "temp_id": 3, 
+      "parent": 2, 
+      "resource_id": "id/parentPanel", 
+      "text": null, 
+      "view_str": "class:android.widget.LinearLayout,resource_id:id/parentPanel,size:1048*576,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          16, 
+          637
+        ], 
+        [
+          1064, 
+          1213
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focused": false, 
+      "children": [
+        4, 
+        9, 
+        12, 
+        14
+      ], 
+      "size": "1048*576"
+    }, 
+    {
+      "temp_id": 4, 
+      "parent": 3, 
+      "resource_id": "id/topPanel", 
+      "text": null, 
+      "view_str": "class:android.widget.LinearLayout,resource_id:id/topPanel,size:1036*184,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          25, 
+          664
+        ], 
+        [
+          1061, 
+          848
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focused": false, 
+      "children": [
+        5, 
+        8
+      ], 
+      "size": "1036*184"
+    }, 
+    {
+      "temp_id": 5, 
+      "parent": 4, 
+      "resource_id": "id/title_template", 
+      "text": null, 
+      "view_str": "class:android.widget.LinearLayout,resource_id:id/title_template,size:900*106,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          93, 
+          712
+        ], 
+        [
+          993, 
+          818
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focused": false, 
+      "children": [
+        6, 
+        7
+      ], 
+      "size": "900*106"
+    }, 
+    {
+      "temp_id": 6, 
+      "parent": 5, 
+      "resource_id": "id/icon", 
+      "text": null, 
+      "view_str": "class:android.widget.ImageView,resource_id:id/icon,size:0*0,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          93, 
+          712
+        ], 
+        [
+          93, 
+          712
+        ]
+      ], 
+      "class": "android.widget.ImageView", 
+      "focused": false, 
+      "children": [], 
+      "size": "0*0"
+    }, 
+    {
+      "temp_id": 7, 
+      "parent": 5, 
+      "resource_id": "id/alertTitle", 
+      "text": "\u63d0\u793a", 
+      "view_str": "class:com.android.internal.widget.DialogTitle,resource_id:id/alertTitle,size:900*106,text:\u63d0\u793a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          93, 
+          712
+        ], 
+        [
+          993, 
+          818
+        ]
+      ], 
+      "class": "com.android.internal.widget.DialogTitle", 
+      "focused": false, 
+      "children": [], 
+      "size": "900*106"
+    }, 
+    {
+      "temp_id": 8, 
+      "parent": 4, 
+      "resource_id": "id/titleDivider", 
+      "text": null, 
+      "view_str": "class:android.widget.ImageView,resource_id:id/titleDivider,size:960*3,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          63, 
+          845
+        ], 
+        [
+          1023, 
+          848
+        ]
+      ], 
+      "class": "android.widget.ImageView", 
+      "focused": false, 
+      "children": [], 
+      "size": "960*3"
+    }, 
+    {
+      "temp_id": 9, 
+      "parent": 3, 
+      "resource_id": "id/contentPanel", 
+      "text": null, 
+      "view_str": "class:android.widget.LinearLayout,resource_id:id/contentPanel,size:1036*145,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          25, 
+          848
+        ], 
+        [
+          1061, 
+          993
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focused": false, 
+      "children": [
+        10
+      ], 
+      "size": "1036*145"
+    }, 
+    {
+      "temp_id": 10, 
+      "parent": 9, 
+      "resource_id": "id/scrollView", 
+      "text": null, 
+      "view_str": "class:android.widget.ScrollView,resource_id:id/scrollView,size:960*145,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          63, 
+          848
+        ], 
+        [
+          1023, 
+          993
+        ]
+      ], 
+      "class": "android.widget.ScrollView", 
+      "focused": false, 
+      "children": [
+        11
+      ], 
+      "size": "960*145"
+    }, 
+    {
+      "temp_id": 11, 
+      "parent": 10, 
+      "resource_id": "id/message", 
+      "text": "\u786e\u5b9a\u8981\u9000\u51fa\u5417\uff1f", 
+      "view_str": "class:android.widget.TextView,resource_id:id/message,size:888*103,text:\u786e\u5b9a\u8981\u9000\u51fa\u5417\uff1f", 
+      "enabled": true, 
+      "bounds": [
+        [
+          105, 
+          854
+        ], 
+        [
+          993, 
+          957
+        ]
+      ], 
+      "class": "android.widget.TextView", 
+      "focused": false, 
+      "children": [], 
+      "size": "888*103"
+    }, 
+    {
+      "temp_id": 12, 
+      "parent": 3, 
+      "resource_id": "id/customPanel", 
+      "text": null, 
+      "view_str": "class:android.widget.FrameLayout,resource_id:id/customPanel,size:0*0,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          16, 
+          637
+        ], 
+        [
+          16, 
+          637
+        ]
+      ], 
+      "class": "android.widget.FrameLayout", 
+      "focused": false, 
+      "children": [
+        13
+      ], 
+      "size": "0*0"
+    }, 
+    {
+      "temp_id": 13, 
+      "parent": 12, 
+      "resource_id": "id/custom", 
+      "text": null, 
+      "view_str": "class:android.widget.FrameLayout,resource_id:id/custom,size:0*0,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          16, 
+          637
+        ], 
+        [
+          16, 
+          637
+        ]
+      ], 
+      "class": "android.widget.FrameLayout", 
+      "focused": false, 
+      "children": [], 
+      "size": "0*0"
+    }, 
+    {
+      "temp_id": 14, 
+      "parent": 3, 
+      "resource_id": "id/buttonPanel", 
+      "text": null, 
+      "view_str": "class:android.widget.LinearLayout,resource_id:id/buttonPanel,size:1036*211,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          25, 
+          993
+        ], 
+        [
+          1061, 
+          1204
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focused": false, 
+      "children": [
+        15
+      ], 
+      "size": "1036*211"
+    }, 
+    {
+      "temp_id": 15, 
+      "parent": 14, 
+      "resource_id": "NO_ID", 
+      "text": null, 
+      "view_str": "class:android.widget.LinearLayout,resource_id:NO_ID,size:960*164,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          63, 
+          993
+        ], 
+        [
+          1023, 
+          1157
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focused": false, 
+      "children": [
+        16, 
+        17, 
+        18, 
+        19, 
+        20
+      ], 
+      "size": "960*164"
+    }, 
+    {
+      "temp_id": 16, 
+      "parent": 15, 
+      "resource_id": "id/leftSpacer", 
+      "text": null, 
+      "view_str": "class:android.widget.LinearLayout,resource_id:id/leftSpacer,size:0*0,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          63, 
+          993
+        ], 
+        [
+          63, 
+          993
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focused": false, 
+      "children": [], 
+      "size": "0*0"
+    }, 
+    {
+      "temp_id": 17, 
+      "parent": 15, 
+      "resource_id": "id/button1", 
+      "text": "\u786e\u5b9a", 
+      "view_str": "class:android.widget.Button,resource_id:id/button1,size:474*144,text:\u786e\u5b9a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          69, 
+          1005
+        ], 
+        [
+          543, 
+          1149
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focused": false, 
+      "children": [], 
+      "size": "474*144"
+    }, 
+    {
+      "temp_id": 18, 
+      "parent": 15, 
+      "resource_id": "id/button3", 
+      "text": "", 
+      "view_str": "class:android.widget.Button,resource_id:id/button3,size:0*0,text:", 
+      "enabled": true, 
+      "bounds": [
+        [
+          63, 
+          993
+        ], 
+        [
+          63, 
+          993
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focused": false, 
+      "children": [], 
+      "size": "0*0"
+    }, 
+    {
+      "temp_id": 19, 
+      "parent": 15, 
+      "resource_id": "id/button2", 
+      "text": "\u4e0d\u786e\u5b9a", 
+      "view_str": "class:android.widget.Button,resource_id:id/button2,size:474*144,text:\u4e0d\u786e\u5b9a", 
+      "enabled": true, 
+      "bounds": [
+        [
+          543, 
+          1005
+        ], 
+        [
+          1017, 
+          1149
+        ]
+      ], 
+      "class": "android.widget.Button", 
+      "focused": false, 
+      "children": [], 
+      "size": "474*144"
+    }, 
+    {
+      "temp_id": 20, 
+      "parent": 15, 
+      "resource_id": "id/rightSpacer", 
+      "text": null, 
+      "view_str": "class:android.widget.LinearLayout,resource_id:id/rightSpacer,size:0*0,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          63, 
+          993
+        ], 
+        [
+          63, 
+          993
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focused": false, 
+      "children": [], 
+      "size": "0*0"
+    }, 
+    {
+      "temp_id": 21, 
+      "parent": 1, 
+      "resource_id": "id/action_mode_bar_stub", 
+      "text": null, 
+      "view_str": "class:android.view.ViewStub,resource_id:id/action_mode_bar_stub,size:0*0,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          16, 
+          637
+        ], 
+        [
+          16, 
+          637
+        ]
+      ], 
+      "class": "android.view.ViewStub", 
+      "focused": false, 
+      "children": [], 
+      "size": "0*0"
+    }
+  ], 
+  "view_str": "activity:com.android.yatree.taijiaomusic/.tjmusicActivity,NO_ID,id/action_mode_bar_stub,id/alertTitle,id/button1,id/button2,id/button3,id/buttonPanel,id/content,id/contentPanel,id/custom,id/customPanel,id/icon,id/leftSpacer,id/message,id/parentPanel,id/rightSpacer,id/scrollView,id/titleDivider,id/title_template,id/topPanel", 
+  "background_services": [
+    "com.android.bluetooth/hid.HidService", 
+    "com.android.phone/BluetoothPhoneService", 
+    "com.android.bluetooth/btservice.AdapterService", 
+    "com.android.mms/transaction.TransactionService", 
+    "com.android.systemui/ImageWallpaper", 
+    "com.bel.android.dspmanager/service.HeadsetService", 
+    "com.android.inputmethod.latin/LatinIME", 
+    "com.android.bluetooth/gatt.GattService", 
+    "com.android.bluetooth/hdp.HealthService", 
+    "com.android.keyguard/KeyguardService", 
+    "com.android.bluetooth/pbap.BluetoothPbapService", 
+    "com.android.bluetooth/a2dp.A2dpService", 
+    "com.qualcomm.qcrilmsgtunnel/QcrilMsgTunnelService", 
+    "com.android.bluetooth/btservice.QAdapterService", 
+    "com.android.systemui/SystemUIService", 
+    "android/hardware.location.GeofenceHardwareService", 
+    "com.android.stk/StkAppService", 
+    "org.codeaurora.bluetooth/ftp.BluetoothFtpService", 
+    "com.android.providers.media/MtpService", 
+    "com.android.bluetooth/hfp.HeadsetService", 
+    "com.android.smspush/WapPushManager", 
+    "com.android.yatree.taijiaomusic/om.android.boot.getADS.MyService", 
+    "android/om.android.internal.backup.LocalTransportService", 
+    "com.android.location.fused/FusedLocationService", 
+    "com.android.yatree.taijiaomusic/om.android.jake.PMService", 
+    "com.android.bluetooth/map.BluetoothMapService", 
+    "com.android.phone/TelephonyDebugService", 
+    "com.android.bluetooth/opp.BluetoothOppService", 
+    "com.android.bluetooth/pan.PanService"
+  ], 
+  "tag": "2017-03-08_160128", 
+  "foreground_activity": "com.android.yatree.taijiaomusic/.tjmusicActivity"
+}

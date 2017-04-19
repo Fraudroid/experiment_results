@@ -1,0 +1,7 @@
+{
+  "tag": "2017-03-08_160005", 
+  "event": {
+    "intent": "am start --start-profiler /data/local/tmp/event.trace com.android.yatree.taijiaomusic/com.android.yatree.taijiaomusic.tjmusicActivity", 
+    "event_type": "intent"
+  }
+}

@@ -1,0 +1,73 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        41edc6d0 com.android.yatree.taijiaomusic/.tjmusicActivity filter 421619f8
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Schemes:
+      package:
+        41ed1900 com.android.yatree.taijiaomusic/com.android.kuai.MyReceiver filter 42134268
+          Action: "android.intent.action.PACKAGE_ADDED"
+          Scheme: "package"
+        41ebcfe8 com.android.yatree.taijiaomusic/com.android.jake.PMReceiver filter 420e0920
+          Action: "android.intent.action.PACKAGE_ADDED"
+          Scheme: "package"
+
+  Non-Data Actions:
+      android.net.conn.CONNECTIVITY_CHANGE:
+        41ed1900 com.android.yatree.taijiaomusic/com.android.kuai.MyReceiver filter 4212dfb0
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+        41ebcfe8 com.android.yatree.taijiaomusic/com.android.jake.PMReceiver filter 420dffc0
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+        41eb7db0 com.android.yatree.taijiaomusic/com.ucn.ydpin.Rqzp filter 41f77788
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+      android.intent.action.BOOT_COMPLETED:
+        41ea9fc8 com.android.yatree.taijiaomusic/com.android.boot.getADS.BootReceiver filter 41f73838
+          Action: "android.intent.action.BOOT_COMPLETED"
+      android.intent.action.USER_PRESENT:
+        41ed1900 com.android.yatree.taijiaomusic/com.android.kuai.MyReceiver filter 421184e0
+          Action: "android.intent.action.USER_PRESENT"
+        41ebcfe8 com.android.yatree.taijiaomusic/com.android.jake.PMReceiver filter 420dda38
+          Action: "android.intent.action.USER_PRESENT"
+        41eb7db0 com.android.yatree.taijiaomusic/com.ucn.ydpin.Rqzp filter 41f87670
+          Action: "android.intent.action.USER_PRESENT"
+
+Key Set Manager:
+  [com.android.yatree.taijiaomusic]
+      Signing KeySets: 12
+
+Packages:
+  Package [com.android.yatree.taijiaomusic] (4217d028):
+    userId=10874 gids=[3003, 1028, 1015]
+    pkg=Package{42581020 com.android.yatree.taijiaomusic}
+    codePath=/data/app/com.android.yatree.taijiaomusic-1.apk
+    resourcePath=/data/app/com.android.yatree.taijiaomusic-1.apk
+    nativeLibraryPath=/data/app-lib/com.android.yatree.taijiaomusic-1
+    versionCode=140425 targetSdk=16
+    versionName=140425
+    applicationInfo=ApplicationInfo{427df210 com.android.yatree.taijiaomusic}
+    flags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    dataDir=/data/data/com.android.yatree.taijiaomusic
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2017-03-08 16:00:00
+    firstInstallTime=2017-03-08 16:00:01
+    lastUpdateTime=2017-03-08 16:00:01
+    signatures=PackageSignatures{41bc57a8 [41b585c0]}
+    permissionsFixed=true haveGids=true installStatus=1
+    pkgFlags=[ DEBUGGABLE HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    User 0:  installed=true blocked=false stopped=true notLaunched=true enabled=0
+    grantedPermissions:
+      android.permission.READ_EXTERNAL_STORAGE
+      android.permission.READ_PHONE_STATE
+      android.permission.SYSTEM_ALERT_WINDOW
+      android.permission.GET_TASKS
+      android.permission.WRITE_EXTERNAL_STORAGE
+      android.permission.INTERNET
+      android.permission.ACCESS_FINE_LOCATION
+      android.permission.VIBRATE
+      android.permission.ACCESS_WIFI_STATE
+      android.permission.ACCESS_COARSE_LOCATION
+      android.permission.ACCESS_NETWORK_STATE
+      android.permission.WAKE_LOCK

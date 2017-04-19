@@ -1,0 +1,876 @@
+--------- beginning of /dev/log/main
+03-08 15:59:56.699 32543 32543 D AndroidRuntime: 
+03-08 15:59:56.699 32543 32543 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 15:59:56.699 32543 32543 D AndroidRuntime: CheckJNI is OFF
+03-08 15:59:56.729 32543 32543 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 15:59:56.729 32543 32543 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 15:59:56.729 32543 32543 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 15:59:56.729 32543 32543 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 15:59:56.729 32543 32543 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 15:59:56.779 32543 32543 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 15:59:56.989 32543 32543 D AndroidRuntime: Calling main entry com.android.commands.input.Input
+03-08 15:59:56.989 32543 32543 I Input   : injectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_MENU, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=7451055, downTime=7451055, deviceId=-1, source=0x101 }
+03-08 15:59:57.009 32543 32543 I Input   : injectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_MENU, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=7451055, downTime=7451055, deviceId=-1, source=0x101 }
+03-08 15:59:57.019 32543 32543 D AndroidRuntime: Shutting down VM
+03-08 15:59:57.549 32573 32573 D AndroidRuntime: 
+03-08 15:59:57.549 32573 32573 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 15:59:57.549 32573 32573 D AndroidRuntime: CheckJNI is OFF
+03-08 15:59:57.569 32573 32573 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 15:59:57.569 32573 32573 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 15:59:57.579 32573 32573 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 15:59:57.579 32573 32573 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 15:59:57.579 32573 32573 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 15:59:57.619 32573 32573 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 15:59:57.919 32573 32573 D AndroidRuntime: Calling main entry com.android.commands.input.Input
+03-08 15:59:57.929 32573 32573 I Input   : injectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=7451989, downTime=7451989, deviceId=-1, source=0x101 }
+03-08 15:59:57.939 32573 32573 I Input   : injectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=7451989, downTime=7451989, deviceId=-1, source=0x101 }
+03-08 15:59:58.049 32573 32573 D AndroidRuntime: Shutting down VM
+03-08 15:59:58.689 32615 32615 D AndroidRuntime: 
+03-08 15:59:58.689 32615 32615 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 15:59:58.689 32615 32615 D AndroidRuntime: CheckJNI is OFF
+03-08 15:59:58.709 32615 32615 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 15:59:58.709 32615 32615 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 15:59:58.719 32615 32615 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 15:59:58.719 32615 32615 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 15:59:58.719 32615 32615 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 15:59:58.769 32615 32615 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 15:59:59.019 32615 32615 D AndroidRuntime: Calling main entry com.android.commands.pm.Pm
+--------- beginning of /dev/log/system
+03-08 15:59:59.029   617   849 W PackageManager: Package named 'com.android.yatree.taijiaomusic' doesn't exist.
+03-08 15:59:59.099 32615 32615 D AndroidRuntime: Shutting down VM
+03-08 16:00:00.099 32648 32648 D AndroidRuntime: 
+03-08 16:00:00.099 32648 32648 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:00:00.099 32648 32648 D AndroidRuntime: CheckJNI is OFF
+03-08 16:00:00.119 32648 32648 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:00:00.119 32648 32648 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:00:00.129 32648 32648 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:00:00.129 32648 32648 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:00:00.129 32648 32648 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:00:00.189 32648 32648 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:00:00.459 32648 32648 D AndroidRuntime: Calling main entry com.android.commands.pm.Pm
+03-08 16:00:00.569   617   849 W ActivityManager: No content provider found for permission revoke: file:///data/local/tmp/fffb9d22c34af5f4a8dddfb5c3b3d5e9.apk
+03-08 16:00:00.669   617   849 W ActivityManager: No content provider found for permission revoke: file:///data/local/tmp/fffb9d22c34af5f4a8dddfb5c3b3d5e9.apk
+03-08 16:00:00.669   617   849 I PackageManager: Copying native libraries to /data/app-lib/vmdl1405384203
+03-08 16:00:01.009 32681 32681 V Zygote  : Switching descriptor 33 to /dev/null
+03-08 16:00:01.009 32681 32681 V Zygote  : Switching descriptor 10 to /dev/null
+03-08 16:00:01.009   617   834 I ActivityManager: Start proc com.android.deskclock for broadcast com.android.deskclock/com.android.alarmclock.DigitalAppWidgetProvider: pid=32681 uid=10032 gids={50032, 1028, 3003}
+03-08 16:00:01.059 32681 32681 D ActivityThread: handleBindApplication:com.android.deskclock
+03-08 16:00:01.059 32681 32681 D ActivityThread: setTargetHeapUtilization:0.75
+03-08 16:00:01.059 32681 32681 D ActivityThread: setTargetHeapMinFree:524288
+03-08 16:00:01.179   617   849 I PackageManager: Running dexopt on: com.android.yatree.taijiaomusic
+03-08 16:00:01.269 32697 32697 D dalvikvm: DexOpt: 'Landroid/annotation/SuppressLint;' has an earlier definition; blocking out
+03-08 16:00:01.269 32697 32697 D dalvikvm: DexOpt: 'Landroid/annotation/TargetApi;' has an earlier definition; blocking out
+03-08 16:00:01.339 32697 32697 D dalvikvm: DexOpt: not verifying/optimizing 'Landroid/annotation/SuppressLint;': multiple definitions
+03-08 16:00:01.339 32697 32697 D dalvikvm: DexOpt: not verifying/optimizing 'Landroid/annotation/TargetApi;': multiple definitions
+03-08 16:00:01.619 32697 32697 D dalvikvm: DexOpt: load 66ms, verify+opt 288ms, 1151276 bytes
+03-08 16:00:01.699   617   834 I ActivityManager: Force stopping com.android.yatree.taijiaomusic appid=10874 user=-1: update pkg
+03-08 16:00:01.979   617   617 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.android.yatree.taijiaomusic flg=0x4000010 (has extras) }
+03-08 16:00:01.979   617   617 V BackupManagerService: addPackageParticipantsLocked: #1
+03-08 16:00:01.999   617   408 I PackageManager:   Action: "android.intent.action.SENDTO"
+03-08 16:00:01.999   617   408 I PackageManager:   Category: "android.intent.category.DEFAULT"
+03-08 16:00:01.999   617   408 I PackageManager:   Scheme: "sms"
+03-08 16:00:01.999   617   408 I PackageManager: Adding preferred activity ComponentInfo{com.android.mms/com.android.mms.ui.ComposeMessageActivity} for user 0 :
+03-08 16:00:02.029   617  1136 I PackageManager:   Action: "android.intent.action.SENDTO"
+03-08 16:00:02.029   617  1136 I PackageManager:   Category: "android.intent.category.DEFAULT"
+03-08 16:00:02.029   617  1136 I PackageManager:   Scheme: "smsto"
+03-08 16:00:02.029   617  1136 I PackageManager: Adding preferred activity ComponentInfo{com.android.mms/com.android.mms.ui.ComposeMessageActivity} for user 0 :
+03-08 16:00:02.059   617   876 I InputReader: Reconfiguring input devices.  changes=0x00000010
+03-08 16:00:02.059   540  1667 D Documents: Used cached roots for com.android.providers.downloads.documents
+03-08 16:00:02.059   540  1667 D Documents: Used cached roots for com.android.externalstorage.documents
+03-08 16:00:02.059   540  1667 D Documents: Used cached roots for com.android.providers.media.documents
+03-08 16:00:02.059   540  1667 D Documents: Update found 6 roots in 62ms
+03-08 16:00:02.059   617   835 W RecognitionManagerService: no available voice recognition services found for user 0
+03-08 16:00:02.069  1670  1670 W GooglePlayServicesUtil: Google Play services is missing.
+03-08 16:00:02.079   617  1041 I PackageManager:   Action: "android.intent.action.SENDTO"
+03-08 16:00:02.079   617  1041 I PackageManager:   Category: "android.intent.category.DEFAULT"
+03-08 16:00:02.079   617  1041 I PackageManager:   Scheme: "mms"
+03-08 16:00:02.079   617  1041 I PackageManager: Adding preferred activity ComponentInfo{com.android.mms/com.android.mms.ui.ComposeMessageActivity} for user 0 :
+03-08 16:00:02.089   617  1128 I PackageManager:   Action: "android.intent.action.SENDTO"
+03-08 16:00:02.089   617  1128 I PackageManager:   Category: "android.intent.category.DEFAULT"
+03-08 16:00:02.089   617  1128 I PackageManager:   Scheme: "mmsto"
+03-08 16:00:02.089   617  1128 I PackageManager: Adding preferred activity ComponentInfo{com.android.mms/com.android.mms.ui.ComposeMessageActivity} for user 0 :
+03-08 16:00:02.109   617  1136 I PackageManager:   Action: "android.intent.action.SENDTO"
+03-08 16:00:02.109   617  1136 I PackageManager:   Category: "android.intent.category.DEFAULT"
+03-08 16:00:02.109   617  1136 I PackageManager:   Scheme: "sms"
+03-08 16:00:02.109   617  1136 I PackageManager: Adding preferred activity ComponentInfo{com.android.mms/com.android.mms.ui.ComposeMessageActivity} for user 0 :
+03-08 16:00:02.119  1109  1147 D Launcher.Model: shortcutWasRestored is false for com.android.yatree.taijiaomusic/com.android.yatree.taijiaomusic.tjmusicActivity
+03-08 16:00:02.119  1109  1109 D Launcher.Workspace: 11683562 - removeExtraEmptyScreen()
+03-08 16:00:02.119  1109  1109 D Launcher.Workspace: 11683562 - convertFinalScreenToEmptyScreenIfNecessary()
+03-08 16:00:02.129   617   409 I PackageManager:   Action: "android.intent.action.SENDTO"
+03-08 16:00:02.129   617   409 I PackageManager:   Category: "android.intent.category.DEFAULT"
+03-08 16:00:02.129   617   409 I PackageManager:   Scheme: "smsto"
+03-08 16:00:02.129   617   409 I PackageManager: Adding preferred activity ComponentInfo{com.android.mms/com.android.mms.ui.ComposeMessageActivity} for user 0 :
+03-08 16:00:02.159   617  1001 I PackageManager:   Action: "android.intent.action.SENDTO"
+03-08 16:00:02.159   617  1001 I PackageManager:   Category: "android.intent.category.DEFAULT"
+03-08 16:00:02.159   617  1001 I PackageManager:   Scheme: "mms"
+03-08 16:00:02.159   617  1001 I PackageManager: Adding preferred activity ComponentInfo{com.android.mms/com.android.mms.ui.ComposeMessageActivity} for user 0 :
+03-08 16:00:02.169 32648 32648 D AndroidRuntime: Shutting down VM
+03-08 16:00:02.179   617  1136 I PackageManager:   Action: "android.intent.action.SENDTO"
+03-08 16:00:02.179   617  1136 I PackageManager:   Category: "android.intent.category.DEFAULT"
+03-08 16:00:02.179   617  1136 I PackageManager:   Scheme: "mmsto"
+03-08 16:00:02.179   617  1136 I PackageManager: Adding preferred activity ComponentInfo{com.android.mms/com.android.mms.ui.ComposeMessageActivity} for user 0 :
+03-08 16:00:02.229   617   835 W Searchables: No global search activity found
+03-08 16:00:03.409 32746 32746 D AndroidRuntime: 
+03-08 16:00:03.409 32746 32746 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:00:03.419 32746 32746 D AndroidRuntime: CheckJNI is OFF
+03-08 16:00:03.439 32746 32746 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:00:03.439 32746 32746 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:00:03.439 32746 32746 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:00:03.439 32746 32746 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:00:03.439 32746 32746 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:00:03.499 32746 32746 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:00:03.739 32746 32746 D AndroidRuntime: Calling main entry com.android.commands.input.Input
+03-08 16:00:03.739 32746 32746 I Input   : injectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_HOME, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=7457807, downTime=7457807, deviceId=-1, source=0x101 }
+03-08 16:00:03.749 32746 32746 I Input   : injectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_HOME, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=7457807, downTime=7457807, deviceId=-1, source=0x101 }
+03-08 16:00:03.759   617   875 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.cyanogenmod.trebuchet/org.cyanogenmod.trebuchet.CustomHomeLauncher} from pid 617
+03-08 16:00:03.769 32746 32746 D AndroidRuntime: Shutting down VM
+03-08 16:00:05.009   617   834 W ProcessCpuTracker: Skipping unknown process pid 309
+03-08 16:00:05.009   617   834 W ProcessCpuTracker: Skipping unknown process pid 310
+03-08 16:00:05.009   617   834 W ProcessCpuTracker: Skipping unknown process pid 315
+03-08 16:00:05.009   617   834 W ProcessCpuTracker: Skipping unknown process pid 320
+03-08 16:00:06.639   356   356 D AndroidRuntime: 
+03-08 16:00:06.639   356   356 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:00:06.639   356   356 D AndroidRuntime: CheckJNI is OFF
+03-08 16:00:06.659   356   356 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:00:06.659   356   356 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:00:06.659   356   356 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:00:06.659   356   356 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:00:06.669   356   356 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:00:06.699   356   356 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:00:06.929   356   356 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+03-08 16:00:06.949   617  1136 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.android.yatree.taijiaomusic/.tjmusicActivity} from pid 356
+03-08 16:00:06.969   356   356 D AndroidRuntime: Shutting down VM
+03-08 16:00:06.969   372   372 V Zygote  : Switching descriptor 33 to /dev/null
+03-08 16:00:06.969   617   855 I ActivityManager: Start proc com.android.yatree.taijiaomusic for activity com.android.yatree.taijiaomusic/.tjmusicActivity: pid=372 uid=10874 gids={50874, 3003, 1028, 1015}
+03-08 16:00:06.979   372   372 V Zygote  : Switching descriptor 10 to /dev/null
+03-08 16:00:06.979   372   372 D dalvikvm: Late-enabling CheckJNI
+03-08 16:00:07.119   372   372 D ActivityThread: handleBindApplication:com.android.yatree.taijiaomusic
+03-08 16:00:07.119   372   372 D ActivityThread: setTargetHeapUtilization:0.75
+03-08 16:00:07.119   372   372 D ActivityThread: setTargetHeapMinFree:524288
+03-08 16:00:07.119   372   372 I dalvikvm: TRACE STARTED: '/data/local/tmp/event.trace' 8192KB
+03-08 16:00:07.279   372   372 D dalvikvm: +++ active profiler count now 1
+03-08 16:00:07.439   372   372 V WebViewChromiumFactoryProvider: Binding Chromium to main looper Looper (main, tid 1) {41a4d2b8}
+03-08 16:00:07.439   372   372 I LibraryLoader: Expected native library version number "",actual native library version number ""
+03-08 16:00:07.449   372   372 I chromium: [INFO:library_loader_hooks.cc(116)] Chromium logging enabled: level = 0, default verbosity = 0
+03-08 16:00:07.449   372   372 I BrowserStartupController: Initializing chromium process, renderers=0
+03-08 16:00:07.979   372   372 E AudioManagerAndroid: BLUETOOTH permission is missing!
+03-08 16:00:07.989   372   372 I Adreno-EGL: <qeglDrvAPI_eglInitialize:320>: EGL 1.4 QUALCOMM Build: I0404c4692afb8623f95c43aeb6d5e13ed4b30ddbDate: 11/06/13
+03-08 16:00:08.059   372   428 I dalvikvm: threadid=14: waiting for method trace to finish
+03-08 16:00:08.109   372   420 W chromium: [WARNING:proxy_service.cc(890)] PAC support disabled because there is no system implementation
+03-08 16:00:08.169   372   432 W WebView : java.lang.Throwable: A WebView method was called on thread 'Thread-300'. All WebView methods must be called on the same thread. (Expected Looper Looper (main, tid 1) {41a4d2b8} called on null, FYI main Looper is Looper (main, tid 1) {41a4d2b8})
+03-08 16:00:08.169   372   432 W WebView : 	at android.webkit.WebView.checkThread(WebView.java:2072)
+03-08 16:00:08.169   372   432 W WebView : 	at android.webkit.WebView.loadUrl(WebView.java:803)
+03-08 16:00:08.169   372   432 W WebView : 	at com.android.yatree.taijiaomusic.tjmusicActivity$10.run(tjmusicActivity.java:284)
+03-08 16:00:08.179   372   432 I dalvikvm: threadid=17: waiting for method trace to finish
+03-08 16:00:08.499   372   451 I dalvikvm: threadid=18: waiting for method trace to finish
+03-08 16:00:08.559   372   455 I dalvikvm: threadid=21: waiting for method trace to finish
+03-08 16:00:08.659   372   457 I dalvikvm: threadid=23: waiting for method trace to finish
+03-08 16:00:08.779   372   462 I dalvikvm: threadid=25: waiting for method trace to finish
+03-08 16:00:08.819   372   463 I dalvikvm: threadid=26: waiting for method trace to finish
+03-08 16:00:08.839   372   464 I dalvikvm: threadid=27: waiting for method trace to finish
+03-08 16:00:08.849   372   465 I dalvikvm: threadid=28: waiting for method trace to finish
+03-08 16:00:09.119   372   372 D dalvikvm: DexOpt: --- BEGIN 'zkl.jar' (bootstrap=0) ---
+03-08 16:00:09.409   471   471 D dalvikvm: DexOpt: load 28ms, verify+opt 213ms, 789908 bytes
+03-08 16:00:09.439   372   372 D dalvikvm: DexOpt: --- END 'zkl.jar' (success) ---
+03-08 16:00:09.439   372   372 D dalvikvm: DEX prep '/data/data/com.android.yatree.taijiaomusic/app_oiuj/zkl.jar': unzip in 4ms, rewrite 317ms
+03-08 16:00:09.449   372   485 I dalvikvm: threadid=31: waiting for method trace to finish
+03-08 16:00:09.829   486   486 D AndroidRuntime: 
+03-08 16:00:09.829   486   486 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:00:09.829   486   486 D AndroidRuntime: CheckJNI is OFF
+03-08 16:00:09.859   486   486 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:00:09.869   486   486 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:00:09.889   486   486 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:00:09.889   486   486 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:00:09.889   486   486 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:00:09.989   486   486 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:00:10.069   372   507 I log     : no local pp ,get from web!
+03-08 16:00:10.069   372   372 I Choreographer: Skipped 112 frames!  The application may be doing too much work on its main thread.
+03-08 16:00:10.139   372   372 D OpenGLRenderer: Enabling debug mode 0
+03-08 16:00:10.229   486   486 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+03-08 16:00:10.229   486   486 D AndroidRuntime: Shutting down VM
+03-08 16:00:10.359   372   372 W AwContents: nativeOnDraw failed; clearing to background color.
+03-08 16:00:10.479   372   490 I dalvikvm: threadid=33: waiting for method trace to finish
+03-08 16:00:10.479   372   372 D dalvikvm: +++ active profiler count now 0
+03-08 16:00:10.499   617   825 I ActivityManager: Displayed com.android.yatree.taijiaomusic/.tjmusicActivity: +3s533ms
+03-08 16:00:10.499   617   825 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{41b58318 u0 com.android.yatree.taijiaomusic/.tjmusicActivity t48} time:7464563
+03-08 16:00:10.499   372   491 I log     : get success...
+03-08 16:00:10.539   372   524 I log     : get success...
+03-08 16:00:10.739   372   372 I dalvikvm: TRACE STOPPED: writing 587897 records
+03-08 16:00:11.209   372   372 I Choreographer: Skipped 42 frames!  The application may be doing too much work on its main thread.
+03-08 16:00:11.259   372   372 I Timeline: Timeline: Activity_launch_request id:com.android.yatree.taijiaomusic time:7465326
+03-08 16:00:11.319   617  1128 I ActivityManager: START u0 {flg=0x18000000 cmp=com.android.yatree.taijiaomusic/com.ucn.ydpin.Ajij (has extras)} from pid 372
+03-08 16:00:11.409   904   904 V PhoneStatusBar: setLightsOn(true)
+03-08 16:00:11.439   372   372 W AwContents: nativeOnDraw failed; clearing to background color.
+03-08 16:00:11.809   617   825 I ActivityManager: Displayed com.android.yatree.taijiaomusic/com.ucn.ydpin.Ajij: +380ms
+03-08 16:00:11.809   617   825 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{421343b0 u0 com.android.yatree.taijiaomusic/com.ucn.ydpin.Ajij t49} time:7465870
+03-08 16:00:11.939   372   565 I log     : get success...
+03-08 16:00:12.619   372   372 I Timeline: Timeline: Activity_idle id: android.os.BinderProxy@42127608 time:7466683
+03-08 16:00:12.619   372   372 I Timeline: Timeline: Activity_idle id: android.os.BinderProxy@41a4fbe8 time:7466683
+03-08 16:00:12.839   372   422 E AndroidProtocolHandler: Unable to open asset URL: file:///android_asset/img/1banner_main.gif
+03-08 16:00:12.869   372   572 E AndroidProtocolHandler: Unable to open asset URL: file:///android_asset/js/none
+03-08 16:00:13.389   372   372 I chromium: [INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+03-08 16:00:13.429   372   372 I chromium: [INFO:CONSOLE(1)] "Uncaught ReferenceError: autoplay is not defined", source:  (1)
+03-08 16:00:13.429   372   372 I chromium: [INFO:CONSOLE(1)] "Uncaught ReferenceError: autoplay is not defined", source:  (1)
+03-08 16:00:14.989   372   387 W ResourceType: No known package when getting name for resource number 0x08765406
+03-08 16:00:15.119   372   387 W ResourceType: No known package when getting name for resource number 0x08765407
+03-08 16:00:15.269   372   387 W ResourceType: No known package when getting name for resource number 0x08765400
+03-08 16:00:15.389   372   387 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:00:15.449   372   387 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:00:15.489   372   387 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:00:15.499   372   387 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:00:15.559   372   387 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:00:15.629   372   387 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:00:15.679   372   387 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:00:15.689   372   387 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:00:15.709   372   387 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:00:15.749   372   387 W ResourceType: No known package when getting name for resource number 0x08765401
+03-08 16:00:15.759   372   387 W ResourceType: No known package when getting name for resource number 0x08765407
+03-08 16:00:15.759   372   387 W ResourceType: No known package when getting name for resource number 0x08765407
+03-08 16:00:15.799   372   387 W ResourceType: No known package when getting name for resource number 0x08765402
+03-08 16:00:15.809   372   387 W ResourceType: No known package when getting name for resource number 0x08765407
+03-08 16:00:16.029   372   372 W ResourceType: No known package when getting name for resource number 0x08765406
+03-08 16:00:16.029   372   372 W ResourceType: No known package when getting name for resource number 0x08765407
+03-08 16:00:16.029   372   372 W ResourceType: No known package when getting name for resource number 0x08765400
+03-08 16:00:16.039   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:00:16.039   372   372 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:00:16.039   372   372 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:00:16.039   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:00:16.039   372   372 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:00:16.039   372   372 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:00:16.039   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:00:16.039   372   372 W ResourceType: No known package when getting name for resource number 0x08765401
+03-08 16:00:16.039   372   372 W ResourceType: No known package when getting name for resource number 0x08765402
+03-08 16:00:23.919   372   372 W ResourceType: No known package when getting name for resource number 0x08765406
+03-08 16:00:23.919   372   372 W ResourceType: No known package when getting name for resource number 0x08765407
+03-08 16:00:23.919   372   372 W ResourceType: No known package when getting name for resource number 0x08765400
+03-08 16:00:23.919   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:00:23.919   372   372 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:00:23.929   372   372 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:00:23.929   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:00:23.929   372   372 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:00:23.929   372   372 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:00:23.929   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:00:23.929   372   372 W ResourceType: No known package when getting name for resource number 0x08765401
+03-08 16:00:23.929   372   372 W ResourceType: No known package when getting name for resource number 0x08765402
+03-08 16:00:24.039   372   372 W ResourceType: No known package when getting name for resource number 0x08765406
+03-08 16:00:24.039   372   372 W ResourceType: No known package when getting name for resource number 0x08765407
+03-08 16:00:24.039   372   372 W ResourceType: No known package when getting name for resource number 0x08765400
+03-08 16:00:24.039   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:00:24.039   372   372 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:00:24.049   372   372 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:00:24.049   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:00:24.049   372   372 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:00:24.049   372   372 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:00:24.049   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:00:24.059   372   372 W ResourceType: No known package when getting name for resource number 0x08765401
+03-08 16:00:24.059   372   372 W ResourceType: No known package when getting name for resource number 0x08765402
+03-08 16:00:24.669  1025  1025 D AndroidRuntime: 
+03-08 16:00:24.669  1025  1025 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:00:24.669  1025  1025 D AndroidRuntime: CheckJNI is OFF
+03-08 16:00:24.689  1025  1025 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:00:24.689  1025  1025 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:00:24.699  1025  1025 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:00:24.699  1025  1025 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:00:24.699  1025  1025 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:00:24.739  1025  1025 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:00:24.959  1025  1025 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+03-08 16:00:24.979  1025  1025 D AndroidRuntime: Shutting down VM
+03-08 16:00:24.979   372   372 I dalvikvm: TRACE STARTED: '/data/local/tmp/event.trace' 8192KB
+03-08 16:00:24.999   372   372 D dalvikvm: JIT code cache reset in 0 ms (142428 bytes 1/0)
+03-08 16:00:24.999   372   372 D dalvikvm: +++ active profiler count now 1
+03-08 16:00:26.199  1168  1168 D AndroidRuntime: 
+03-08 16:00:26.199  1168  1168 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:00:26.199  1168  1168 D AndroidRuntime: CheckJNI is OFF
+03-08 16:00:26.219  1168  1168 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:00:26.229  1168  1168 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:00:26.229  1168  1168 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:00:26.229  1168  1168 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:00:26.229  1168  1168 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:00:26.269  1168  1168 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:00:26.519  1168  1168 D AndroidRuntime: Calling main entry com.android.commands.input.Input
+03-08 16:00:26.529  1168  1168 I Input   : injectMotionEvent: MotionEvent { action=ACTION_DOWN, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7480588, downTime=7480588, deviceId=0, source=0x1002 }
+03-08 16:00:26.559  1168  1168 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7480588, downTime=7480588, deviceId=0, source=0x1002 }
+03-08 16:00:26.569  1168  1168 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7480635, downTime=7480635, deviceId=0, source=0x1002 }
+03-08 16:00:26.589  1168  1168 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7480651, downTime=7480651, deviceId=0, source=0x1002 }
+03-08 16:00:26.609  1168  1168 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7480669, downTime=7480669, deviceId=0, source=0x1002 }
+03-08 16:00:26.619  1168  1168 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7480684, downTime=7480684, deviceId=0, source=0x1002 }
+03-08 16:00:26.639  1168  1168 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7480703, downTime=7480703, deviceId=0, source=0x1002 }
+03-08 16:00:26.649  1168  1168 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7480716, downTime=7480716, deviceId=0, source=0x1002 }
+03-08 16:00:26.679  1168  1168 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7480739, downTime=7480739, deviceId=0, source=0x1002 }
+03-08 16:00:26.689  1168  1168 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7480754, downTime=7480754, deviceId=0, source=0x1002 }
+03-08 16:00:26.709  1168  1168 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7480769, downTime=7480769, deviceId=0, source=0x1002 }
+03-08 16:00:26.719  1168  1168 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7480788, downTime=7480788, deviceId=0, source=0x1002 }
+03-08 16:00:26.739  1168  1168 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7480805, downTime=7480805, deviceId=0, source=0x1002 }
+03-08 16:00:26.759  1168  1168 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7480819, downTime=7480819, deviceId=0, source=0x1002 }
+03-08 16:00:26.769  1168  1168 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7480836, downTime=7480836, deviceId=0, source=0x1002 }
+03-08 16:00:26.789  1168  1168 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7480857, downTime=7480857, deviceId=0, source=0x1002 }
+03-08 16:00:26.809  1168  1168 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7480874, downTime=7480874, deviceId=0, source=0x1002 }
+03-08 16:00:26.819  1168  1168 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7480887, downTime=7480887, deviceId=0, source=0x1002 }
+03-08 16:00:26.829  1168  1168 I Input   : injectMotionEvent: MotionEvent { action=ACTION_UP, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7480898, downTime=7480898, deviceId=0, source=0x1002 }
+03-08 16:00:26.869   372  1210 I dalvikvm: threadid=31: waiting for method trace to finish
+03-08 16:00:27.239  1168  1168 D AndroidRuntime: Shutting down VM
+03-08 16:00:27.259   904   904 V PhoneStatusBar: setLightsOn(true)
+03-08 16:00:27.469   372   372 I Timeline: Timeline: Activity_idle id: android.os.BinderProxy@41a4fbe8 time:7481530
+03-08 16:00:28.759   372   453 W System.err: java.net.UnknownHostException: Unable to resolve host "www.91admob.com": No address associated with hostname
+03-08 16:00:28.759   372   453 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:424)
+03-08 16:00:28.769   372   453 W System.err: 	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:236)
+03-08 16:00:28.779   372   453 W System.err: 	at java.net.InetAddress.getAllByName(InetAddress.java:214)
+03-08 16:00:28.779   372   453 W System.err: 	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:137)
+03-08 16:00:28.779   372   453 W System.err: 	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:164)
+03-08 16:00:28.779   372   453 W System.err: 	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:119)
+03-08 16:00:28.779   372   453 W System.err: 	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:360)
+03-08 16:00:28.779   372   453 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:555)
+03-08 16:00:28.779   372   453 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:487)
+03-08 16:00:28.779   372   453 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:465)
+03-08 16:00:28.809   372   453 W System.err: 	at com.Brush.facade.http.GetWord.connServerForResult(Unknown Source)
+03-08 16:00:28.809   372   453 W System.err: 	at com.Brush.facade.http.GetWord.getWord(Unknown Source)
+03-08 16:00:28.809   372   453 W System.err: 	at com.Brush.facade.ui.a.run(Unknown Source)
+03-08 16:00:28.809   372   453 W System.err: Caused by: libcore.io.GaiException: getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+03-08 16:00:28.819   372   453 W System.err: 	at libcore.io.Posix.getaddrinfo(Native Method)
+03-08 16:00:28.819   372   453 W System.err: 	at libcore.io.ForwardingOs.getaddrinfo(ForwardingOs.java:61)
+03-08 16:00:28.819   372   453 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:405)
+03-08 16:00:28.829   372   453 W System.err: 	... 12 more
+03-08 16:00:28.849   372   453 W System.err: org.json.JSONException: End of input at character 0 of 
+03-08 16:00:28.849   372   453 W System.err: 	at org.json.JSONTokener.syntaxError(JSONTokener.java:450)
+03-08 16:00:28.849   372   453 W System.err: 	at org.json.JSONTokener.nextValue(JSONTokener.java:97)
+03-08 16:00:28.849   372   453 W System.err: 	at org.json.JSONObject.<init>(JSONObject.java:155)
+03-08 16:00:28.849   372   453 W System.err: 	at org.json.JSONObject.<init>(JSONObject.java:172)
+03-08 16:00:28.859   372   453 W System.err: 	at com.Brush.facade.http.GetWord.a(Unknown Source)
+03-08 16:00:28.859   372   453 W System.err: 	at com.Brush.facade.http.GetWord.getWord(Unknown Source)
+03-08 16:00:28.859   372   453 W System.err: 	at com.Brush.facade.ui.a.run(Unknown Source)
+03-08 16:00:28.859   372   453 I dalvikvm: threadid=20: waiting for method trace to finish
+03-08 16:00:29.889  1293  1293 D AndroidRuntime: 
+03-08 16:00:29.889  1293  1293 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:00:29.899  1293  1293 D AndroidRuntime: CheckJNI is OFF
+03-08 16:00:29.919  1293  1293 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:00:29.919  1293  1293 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:00:29.929  1293  1293 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:00:29.929  1293  1293 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:00:29.929  1293  1293 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:00:29.969  1293  1293 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:00:30.359  1293  1293 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+03-08 16:00:30.359  1293  1293 D AndroidRuntime: Shutting down VM
+03-08 16:00:30.359  1293  1318 I AndroidRuntime: NOTE: attach of thread 'Binder_2' failed
+03-08 16:00:30.359   372   372 D dalvikvm: +++ active profiler count now 0
+03-08 16:00:30.619   372   372 I dalvikvm: TRACE STOPPED: writing 237339 records
+03-08 16:00:33.789   372   452 I infe    : IO error
+03-08 16:00:33.789   372   452 W System.err: java.net.UnknownHostException: Unable to resolve host "www.91admob.com": No address associated with hostname
+03-08 16:00:33.789   372   452 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:424)
+03-08 16:00:33.789   372   452 W System.err: 	at java.net.InetAddress.getAllByNameImpl(InetAddress.java:236)
+03-08 16:00:33.789   372   452 W System.err: 	at java.net.InetAddress.getAllByName(InetAddress.java:214)
+03-08 16:00:33.789   372   452 W System.err: 	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:137)
+03-08 16:00:33.789   372   452 W System.err: 	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:164)
+03-08 16:00:33.789   372   452 W System.err: 	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:119)
+03-08 16:00:33.789   372   452 W System.err: 	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:360)
+03-08 16:00:33.789   372   452 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:555)
+03-08 16:00:33.789   372   452 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:487)
+03-08 16:00:33.789   372   452 W System.err: 	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:465)
+03-08 16:00:33.789   372   452 W System.err: 	at com.android.boot.getADS.GetAds.doGet(Unknown Source)
+03-08 16:00:33.789   372   452 W System.err: 	at com.android.boot.getADS.GetAds.get(Unknown Source)
+03-08 16:00:33.789   372   452 W System.err: 	at com.android.boot.getADS.d.run(Unknown Source)
+03-08 16:00:33.789   372   452 W System.err: Caused by: libcore.io.GaiException: getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+03-08 16:00:33.799   372   452 W System.err: 	at libcore.io.Posix.getaddrinfo(Native Method)
+03-08 16:00:33.799   372   452 W System.err: 	at libcore.io.ForwardingOs.getaddrinfo(ForwardingOs.java:61)
+03-08 16:00:33.799   372   452 W System.err: 	at java.net.InetAddress.lookupHostByName(InetAddress.java:405)
+03-08 16:00:33.799   372   452 W System.err: 	... 12 more
+03-08 16:00:40.059  1587  1587 D AndroidRuntime: 
+03-08 16:00:40.059  1587  1587 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:00:40.059  1587  1587 D AndroidRuntime: CheckJNI is OFF
+03-08 16:00:40.079  1587  1587 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:00:40.089  1587  1587 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:00:40.089  1587  1587 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:00:40.089  1587  1587 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:00:40.089  1587  1587 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:00:40.129  1587  1587 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:00:40.369  1587  1587 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+03-08 16:00:40.389   372   372 I dalvikvm: TRACE STARTED: '/data/local/tmp/event.trace' 8192KB
+03-08 16:00:40.389  1587  1587 D AndroidRuntime: Shutting down VM
+03-08 16:00:40.439   372   372 D dalvikvm: +++ active profiler count now 1
+03-08 16:00:41.439  1642  1642 D AndroidRuntime: 
+03-08 16:00:41.439  1642  1642 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:00:41.439  1642  1642 D AndroidRuntime: CheckJNI is OFF
+03-08 16:00:41.459  1642  1642 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:00:41.459  1642  1642 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:00:41.459  1642  1642 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:00:41.459  1642  1642 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:00:41.459  1642  1642 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:00:41.519  1642  1642 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:00:41.749  1642  1642 D AndroidRuntime: Calling main entry com.android.commands.input.Input
+03-08 16:00:41.759  1642  1642 I Input   : injectMotionEvent: MotionEvent { action=ACTION_DOWN, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7495820, downTime=7495820, deviceId=0, source=0x1002 }
+03-08 16:00:41.789  1642  1642 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7495820, downTime=7495820, deviceId=0, source=0x1002 }
+03-08 16:00:41.809  1642  1642 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7495872, downTime=7495872, deviceId=0, source=0x1002 }
+03-08 16:00:41.829  1642  1642 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7495892, downTime=7495892, deviceId=0, source=0x1002 }
+03-08 16:00:41.839  1642  1642 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7495907, downTime=7495907, deviceId=0, source=0x1002 }
+03-08 16:00:41.859  1642  1642 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7495924, downTime=7495924, deviceId=0, source=0x1002 }
+03-08 16:00:41.879  1642  1642 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7495942, downTime=7495942, deviceId=0, source=0x1002 }
+03-08 16:00:41.899  1642  1642 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7495963, downTime=7495963, deviceId=0, source=0x1002 }
+03-08 16:00:41.919  1642  1642 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7495987, downTime=7495987, deviceId=0, source=0x1002 }
+03-08 16:00:41.949  1642  1642 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7496014, downTime=7496014, deviceId=0, source=0x1002 }
+03-08 16:00:41.969  1642  1642 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7496034, downTime=7496034, deviceId=0, source=0x1002 }
+03-08 16:00:41.999  1642  1642 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7496065, downTime=7496065, deviceId=0, source=0x1002 }
+03-08 16:00:42.019  1642  1642 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7496082, downTime=7496082, deviceId=0, source=0x1002 }
+03-08 16:00:42.039  1642  1642 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7496103, downTime=7496103, deviceId=0, source=0x1002 }
+03-08 16:00:42.069  1642  1642 I Input   : injectMotionEvent: MotionEvent { action=ACTION_UP, id[0]=0, x[0]=540.0, y[0]=925.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7496130, downTime=7496130, deviceId=0, source=0x1002 }
+03-08 16:00:42.099  1642  1642 D AndroidRuntime: Shutting down VM
+03-08 16:00:44.739  1727  1727 D AndroidRuntime: 
+03-08 16:00:44.739  1727  1727 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:00:44.739  1727  1727 D AndroidRuntime: CheckJNI is OFF
+03-08 16:00:44.769  1727  1727 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:00:44.769  1727  1727 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:00:44.779  1727  1727 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:00:44.779  1727  1727 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:00:44.779  1727  1727 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:00:44.899  1727  1727 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:00:45.169  1727  1727 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+03-08 16:00:45.179  1727  1727 D AndroidRuntime: Shutting down VM
+03-08 16:00:45.179  1727  1772 I AndroidRuntime: NOTE: attach of thread 'Binder_2' failed
+03-08 16:00:45.179   372   372 D dalvikvm: +++ active profiler count now 0
+03-08 16:00:45.439   372   372 I dalvikvm: TRACE STOPPED: writing 54733 records
+03-08 16:00:47.169   617   834 W ProcessCpuTracker: Skipping unknown process pid 1788
+03-08 16:00:47.169   617   834 W ProcessCpuTracker: Skipping unknown process pid 1789
+03-08 16:00:47.169   617   834 W ProcessCpuTracker: Skipping unknown process pid 1796
+03-08 16:00:47.169   617   834 W ProcessCpuTracker: Skipping unknown process pid 1797
+03-08 16:00:47.179   617   834 W ProcessCpuTracker: Skipping unknown process pid 1808
+03-08 16:00:55.079  2017  2017 D AndroidRuntime: 
+03-08 16:00:55.079  2017  2017 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:00:55.079  2017  2017 D AndroidRuntime: CheckJNI is OFF
+03-08 16:00:55.099  2017  2017 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:00:55.099  2017  2017 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:00:55.109  2017  2017 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:00:55.109  2017  2017 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:00:55.109  2017  2017 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:00:55.149  2017  2017 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:00:55.369  2017  2017 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+03-08 16:00:55.369   372   372 I dalvikvm: TRACE STARTED: '/data/local/tmp/event.trace' 8192KB
+03-08 16:00:55.379  2017  2017 D AndroidRuntime: Shutting down VM
+03-08 16:00:55.389   372   372 D dalvikvm: +++ active profiler count now 1
+03-08 16:00:56.099  2034  2034 D AndroidRuntime: 
+03-08 16:00:56.099  2034  2034 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:00:56.099  2034  2034 D AndroidRuntime: CheckJNI is OFF
+03-08 16:00:56.119  2034  2034 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:00:56.119  2034  2034 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:00:56.129  2034  2034 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:00:56.129  2034  2034 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:00:56.129  2034  2034 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:00:56.169  2034  2034 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:00:56.409  2034  2034 D AndroidRuntime: Calling main entry com.android.commands.input.Input
+03-08 16:00:56.409  2034  2034 I Input   : injectKeyEvent: KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=7510477, downTime=7510477, deviceId=-1, source=0x101 }
+03-08 16:00:56.439   372   372 W UnimplementedWebViewApi: Unimplemented WebView method onKeyDown called from: android.webkit.WebView.onKeyDown(WebView.java:2178)
+03-08 16:00:56.789  2034  2034 I Input   : injectKeyEvent: KeyEvent { action=ACTION_UP, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x0, repeatCount=0, eventTime=7510477, downTime=7510477, deviceId=-1, source=0x101 }
+03-08 16:00:57.279  2034  2034 D AndroidRuntime: Shutting down VM
+03-08 16:00:57.379   372   372 I Timeline: Timeline: Activity_launch_request id:com.android.yatree.taijiaomusic time:7511442
+03-08 16:00:57.679   617  1001 I ActivityManager: START u0 {flg=0x18000000 cmp=com.android.yatree.taijiaomusic/com.ucn.ydpin.Ajij (has extras)} from pid 372
+03-08 16:00:57.819   904   904 V PhoneStatusBar: setLightsOn(true)
+03-08 16:00:59.799   617   825 I ActivityManager: Displayed com.android.yatree.taijiaomusic/com.ucn.ydpin.Ajij: +1s797ms
+03-08 16:00:59.799   617   825 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{4218a478 u0 com.android.yatree.taijiaomusic/com.ucn.ydpin.Ajij t50} time:7513869
+03-08 16:00:59.919  2115  2115 D AndroidRuntime: 
+03-08 16:00:59.919  2115  2115 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:00:59.919  2115  2115 D AndroidRuntime: CheckJNI is OFF
+03-08 16:00:59.939  2115  2115 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:00:59.949  2115  2115 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:00:59.949  2115  2115 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:00:59.959  2115  2115 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:00:59.959  2115  2115 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:01:00.019  2115  2115 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:01:00.139   372  2112 I log     : get success...
+03-08 16:01:00.139   372  2112 I dalvikvm: threadid=29: waiting for method trace to finish
+03-08 16:01:00.279  2115  2115 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+03-08 16:01:00.279  2115  2115 D AndroidRuntime: Shutting down VM
+03-08 16:01:00.359   372   372 D dalvikvm: +++ active profiler count now 0
+03-08 16:01:00.639   372   372 I dalvikvm: TRACE STOPPED (NOTE: overflowed buffer): writing 599184 records
+03-08 16:01:00.949   372   372 I Choreographer: Skipped 38 frames!  The application may be doing too much work on its main thread.
+03-08 16:01:00.989   372   372 I Timeline: Timeline: Activity_idle id: android.os.BinderProxy@4203cac8 time:7515053
+03-08 16:01:05.099   372   401 W ResourceType: No known package when getting name for resource number 0x08765406
+03-08 16:01:05.169   372   401 W ResourceType: No known package when getting name for resource number 0x08765407
+03-08 16:01:05.309   372   401 W ResourceType: No known package when getting name for resource number 0x08765400
+03-08 16:01:05.399   372   401 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:01:05.459   372   401 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:01:05.499   372   401 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:01:05.509   372   401 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:01:05.569   372   401 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:01:05.609   372   401 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:01:05.679   372   401 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:01:05.709   372   401 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:01:05.789   372   401 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:01:05.839   372   401 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:01:05.889   372   401 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:01:05.899   372   401 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:01:05.939   372   401 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:01:05.999   372   401 W ResourceType: No known package when getting name for resource number 0x08765401
+03-08 16:01:06.009   372   401 W ResourceType: No known package when getting name for resource number 0x08765407
+03-08 16:01:06.009   372   401 W ResourceType: No known package when getting name for resource number 0x08765407
+03-08 16:01:06.059   372   401 W ResourceType: No known package when getting name for resource number 0x08765402
+03-08 16:01:06.079   372   401 W ResourceType: No known package when getting name for resource number 0x08765407
+03-08 16:01:06.369   372   372 W ResourceType: No known package when getting name for resource number 0x08765406
+03-08 16:01:06.369   372   372 W ResourceType: No known package when getting name for resource number 0x08765407
+03-08 16:01:06.369   372   372 W ResourceType: No known package when getting name for resource number 0x08765400
+03-08 16:01:06.369   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:01:06.379   372   372 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:01:06.379   372   372 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:01:06.379   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:01:06.379   372   372 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:01:06.379   372   372 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:01:06.379   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:01:06.389   372   372 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:01:06.389   372   372 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:01:06.389   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:01:06.389   372   372 W ResourceType: No known package when getting name for resource number 0x08765401
+03-08 16:01:06.389   372   372 W ResourceType: No known package when getting name for resource number 0x08765402
+03-08 16:01:14.069   372   372 W ResourceType: No known package when getting name for resource number 0x08765406
+03-08 16:01:14.069   372   372 W ResourceType: No known package when getting name for resource number 0x08765407
+03-08 16:01:14.069   372   372 W ResourceType: No known package when getting name for resource number 0x08765400
+03-08 16:01:14.079   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:01:14.079   372   372 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:01:14.079   372   372 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:01:14.079   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:01:14.079   372   372 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:01:14.079   372   372 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:01:14.079   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:01:14.079   372   372 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:01:14.079   372   372 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:01:14.079   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:01:14.089   372   372 W ResourceType: No known package when getting name for resource number 0x08765401
+03-08 16:01:14.089   372   372 W ResourceType: No known package when getting name for resource number 0x08765402
+03-08 16:01:14.169   372   372 W ResourceType: No known package when getting name for resource number 0x08765406
+03-08 16:01:14.169   372   372 W ResourceType: No known package when getting name for resource number 0x08765407
+03-08 16:01:14.169   372   372 W ResourceType: No known package when getting name for resource number 0x08765400
+03-08 16:01:14.169   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:01:14.169   372   372 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:01:14.169   372   372 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:01:14.169   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:01:14.169   372   372 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:01:14.169   372   372 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:01:14.169   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:01:14.179   372   372 W ResourceType: No known package when getting name for resource number 0x08765405
+03-08 16:01:14.179   372   372 W ResourceType: No known package when getting name for resource number 0x08765404
+03-08 16:01:14.179   372   372 W ResourceType: No known package when getting name for resource number 0x08765403
+03-08 16:01:14.179   372   372 W ResourceType: No known package when getting name for resource number 0x08765401
+03-08 16:01:14.179   372   372 W ResourceType: No known package when getting name for resource number 0x08765402
+03-08 16:01:14.809  2470  2470 D AndroidRuntime: 
+03-08 16:01:14.809  2470  2470 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:01:14.809  2470  2470 D AndroidRuntime: CheckJNI is OFF
+03-08 16:01:14.829  2470  2470 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:01:14.829  2470  2470 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:01:14.839  2470  2470 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:01:14.839  2470  2470 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:01:14.839  2470  2470 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:01:14.879  2470  2470 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:01:15.159  2470  2470 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+03-08 16:01:15.169  2470  2470 D AndroidRuntime: Shutting down VM
+03-08 16:01:15.179   372   372 I dalvikvm: TRACE STARTED: '/data/local/tmp/event.trace' 8192KB
+03-08 16:01:15.209   372   372 D dalvikvm: +++ active profiler count now 1
+03-08 16:01:16.249  2517  2517 D AndroidRuntime: 
+03-08 16:01:16.249  2517  2517 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:01:16.249  2517  2517 D AndroidRuntime: CheckJNI is OFF
+03-08 16:01:16.269  2517  2517 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:01:16.279  2517  2517 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:01:16.279  2517  2517 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:01:16.279  2517  2517 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:01:16.279  2517  2517 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:01:16.319  2517  2517 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:01:16.599  2517  2517 D AndroidRuntime: Calling main entry com.android.commands.input.Input
+03-08 16:01:16.599  2517  2517 I Input   : injectMotionEvent: MotionEvent { action=ACTION_DOWN, id[0]=0, x[0]=726.0, y[0]=1250.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7530663, downTime=7530663, deviceId=0, source=0x1002 }
+03-08 16:01:16.609  2517  2517 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=726.0, y[0]=1250.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7530663, downTime=7530663, deviceId=0, source=0x1002 }
+03-08 16:01:16.619  2517  2517 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=726.0, y[0]=1250.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7530687, downTime=7530687, deviceId=0, source=0x1002 }
+03-08 16:01:16.639  2517  2517 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=726.0, y[0]=1250.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7530704, downTime=7530704, deviceId=0, source=0x1002 }
+03-08 16:01:16.659  2517  2517 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=726.0, y[0]=1250.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7530721, downTime=7530721, deviceId=0, source=0x1002 }
+03-08 16:01:16.669  2517  2517 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=726.0, y[0]=1250.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7530737, downTime=7530737, deviceId=0, source=0x1002 }
+03-08 16:01:16.689  2517  2517 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=726.0, y[0]=1250.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7530758, downTime=7530758, deviceId=0, source=0x1002 }
+03-08 16:01:16.709  2517  2517 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=726.0, y[0]=1250.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7530774, downTime=7530774, deviceId=0, source=0x1002 }
+03-08 16:01:16.729  2517  2517 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=726.0, y[0]=1250.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7530794, downTime=7530794, deviceId=0, source=0x1002 }
+03-08 16:01:16.749  2517  2517 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=726.0, y[0]=1250.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7530813, downTime=7530813, deviceId=0, source=0x1002 }
+03-08 16:01:16.769  2517  2517 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=726.0, y[0]=1250.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7530831, downTime=7530831, deviceId=0, source=0x1002 }
+03-08 16:01:16.779  2517  2517 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=726.0, y[0]=1250.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7530840, downTime=7530840, deviceId=0, source=0x1002 }
+03-08 16:01:16.799  2517  2517 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=726.0, y[0]=1250.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7530866, downTime=7530866, deviceId=0, source=0x1002 }
+03-08 16:01:16.809  2517  2517 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=726.0, y[0]=1250.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7530873, downTime=7530873, deviceId=0, source=0x1002 }
+03-08 16:01:16.829  2517  2517 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=726.0, y[0]=1250.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7530899, downTime=7530899, deviceId=0, source=0x1002 }
+03-08 16:01:16.859  2517  2517 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=726.0, y[0]=1250.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7530925, downTime=7530925, deviceId=0, source=0x1002 }
+03-08 16:01:16.879  2517  2517 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=726.0, y[0]=1250.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7530941, downTime=7530941, deviceId=0, source=0x1002 }
+03-08 16:01:16.889  2517  2517 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=726.0, y[0]=1250.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7530958, downTime=7530958, deviceId=0, source=0x1002 }
+03-08 16:01:16.909  2517  2517 I Input   : injectMotionEvent: MotionEvent { action=ACTION_UP, id[0]=0, x[0]=726.0, y[0]=1250.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7530975, downTime=7530975, deviceId=0, source=0x1002 }
+03-08 16:01:16.919  2517  2517 D AndroidRuntime: Shutting down VM
+03-08 16:01:16.939   196   857 D AudioPolicyManagerBase: getOutput() device 2, stream 1, samplingRate 0, format 0, channelMask 3, flags 0
+03-08 16:01:16.939   196   857 D AudioPolicyManagerBase: getOutput() returns output 2
+03-08 16:01:16.939   196  9327 D AudioPolicyManagerBase: getOutput() device 2, stream 1, samplingRate 0, format 0, channelMask 3, flags 0
+03-08 16:01:16.939   196  9327 D AudioPolicyManagerBase: getOutput() returns output 2
+03-08 16:01:16.939   196   861 D AudioPolicyManagerBase: getOutput() device 2, stream 1, samplingRate 48000, format 1, channelMask 3, flags 4
+03-08 16:01:16.939   196   861 D AudioPolicyManagerBase: getOutput() returns output 3
+03-08 16:01:16.949   196   857 D AudioFlinger: start(4100), calling pid 617 session 91
+03-08 16:01:16.949   196   857 D AudioFlinger: ? => ACTIVE (4100) on thread 0xb820fe08
+03-08 16:01:16.949   196   857 I QCOM PowerHAL: Processing audio hint. Metadata: state=1
+03-08 16:01:16.949   196   857 D AudioPolicyManagerBase: startOutput() output 3, stream 1, session 91
+03-08 16:01:16.959   196   854 V audio_hw_primary: start_output_stream: enter: usecase(1: low-latency-playback) devices(0x2)
+03-08 16:01:16.959   196   854 V msm8974_platform: platform_get_output_snd_device: enter: output devices(0x2)
+03-08 16:01:16.959   196   854 V msm8974_platform: platform_get_output_snd_device: exit: snd_device(speaker)
+03-08 16:01:16.959   196   854 D audio_hw_primary: select_devices: out_snd_device(2: speaker) in_snd_device(0: )
+03-08 16:01:16.959   196   854 W msm8974_platform: Property audio.offload.24bit.enable is set
+03-08 16:01:16.959   196   854 V msm8974_platform: platform_check_and_set_codec_backend_cfg usecase = 1
+03-08 16:01:16.959   196   854 W msm8974_platform: Codec backend bitwidth 16, samplerate 48000
+03-08 16:01:16.959   196   854 V msm8974_platform: Playback running bw 16 sr 48000 standby 0
+03-08 16:01:16.959   196   854 V audio_hw_primary: enable_snd_device: snd_device(2: speaker)
+03-08 16:01:16.959   196   854 V audio_hw_primary: enable_audio_route: enter: usecase(1)
+03-08 16:01:16.959   196   854 V audio_hw_primary: enable_audio_route: apply mixer path: low-latency-playback
+03-08 16:01:16.959   196   854 V audio_hw_primary: enable_audio_route: exit
+03-08 16:01:16.959   196   854 V audio_hw_primary: start_output_stream: Opening PCM device card_id(0) device_id(15)
+03-08 16:01:16.959   196   854 V audio_hw_primary: start_output_stream: exit
+03-08 16:01:17.049   617  1765 D LightsService: Excessive delay setting light: 93ms
+03-08 16:01:17.149   196   852 I QCOM PowerHAL: Processing audio hint. Metadata: state=0
+03-08 16:01:17.559   372   372 I Timeline: Timeline: Activity_idle id: android.os.BinderProxy@41a4fbe8 time:7531622
+03-08 16:01:19.509  2591  2591 D AndroidRuntime: 
+03-08 16:01:19.509  2591  2591 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:01:19.519  2591  2591 D AndroidRuntime: CheckJNI is OFF
+03-08 16:01:19.539  2591  2591 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:01:19.539  2591  2591 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:01:19.549  2591  2591 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:01:19.549  2591  2591 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:01:19.549  2591  2591 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:01:19.589  2591  2591 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:01:19.999  2591  2591 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+03-08 16:01:20.009  2591  2591 D AndroidRuntime: Shutting down VM
+03-08 16:01:20.009   372   372 D dalvikvm: +++ active profiler count now 0
+03-08 16:01:20.129   196   856 V audio_hw_primary: out_standby: enter: usecase(1: low-latency-playback)
+03-08 16:01:20.189   196   856 V audio_hw_primary: stop_output_stream: enter: usecase(1: low-latency-playback)
+03-08 16:01:20.189   196   856 V audio_hw_primary: disable_audio_route: enter: usecase(1)
+03-08 16:01:20.189   196   856 V audio_hw_primary: disable_audio_route: reset mixer path: low-latency-playback
+03-08 16:01:20.189   196   856 V audio_hw_primary: disable_audio_route: exit
+03-08 16:01:20.189   196   856 V audio_hw_primary: disable_snd_device: snd_device(2: speaker) refcnt=0
+03-08 16:01:20.199   196   856 V audio_hw_primary: stop_output_stream: exit: status(0)
+03-08 16:01:20.199   196   856 V audio_hw_primary: out_standby: exit
+03-08 16:01:20.269   372   372 I dalvikvm: TRACE STOPPED: writing 204266 records
+03-08 16:01:32.519  2890  2890 D AndroidRuntime: 
+03-08 16:01:32.519  2890  2890 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:01:32.519  2890  2890 D AndroidRuntime: CheckJNI is OFF
+03-08 16:01:32.539  2890  2890 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:01:32.539  2890  2890 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:01:32.549  2890  2890 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:01:32.549  2890  2890 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:01:32.549  2890  2890 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:01:32.589  2890  2890 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:01:32.829  2890  2890 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+03-08 16:01:32.839  2890  2890 D AndroidRuntime: Shutting down VM
+03-08 16:01:32.839   372   372 I dalvikvm: TRACE STARTED: '/data/local/tmp/event.trace' 8192KB
+03-08 16:01:32.859   372   372 D dalvikvm: +++ active profiler count now 1
+03-08 16:01:33.929  2934  2934 D AndroidRuntime: 
+03-08 16:01:33.929  2934  2934 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:01:33.939  2934  2934 D AndroidRuntime: CheckJNI is OFF
+03-08 16:01:33.969  2934  2934 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:01:33.969  2934  2934 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:01:33.979  2934  2934 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:01:33.979  2934  2934 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:01:33.979  2934  2934 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:01:34.019  2934  2934 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:01:34.259  2934  2934 D AndroidRuntime: Calling main entry com.android.commands.input.Input
+03-08 16:01:34.259  2934  2934 I Input   : injectMotionEvent: MotionEvent { action=ACTION_DOWN, id[0]=0, x[0]=780.0, y[0]=1077.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7548324, downTime=7548324, deviceId=0, source=0x1002 }
+03-08 16:01:34.279  2934  2934 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=780.0, y[0]=1077.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7548324, downTime=7548324, deviceId=0, source=0x1002 }
+03-08 16:01:34.299  2934  2934 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=780.0, y[0]=1077.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7548368, downTime=7548368, deviceId=0, source=0x1002 }
+03-08 16:01:34.459  2934  2934 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=780.0, y[0]=1077.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7548521, downTime=7548521, deviceId=0, source=0x1002 }
+03-08 16:01:34.509  2934  2934 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=780.0, y[0]=1077.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7548577, downTime=7548577, deviceId=0, source=0x1002 }
+03-08 16:01:34.529  2934  2934 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=780.0, y[0]=1077.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7548598, downTime=7548598, deviceId=0, source=0x1002 }
+03-08 16:01:34.549  2934  2934 I Input   : injectMotionEvent: MotionEvent { action=ACTION_MOVE, id[0]=0, x[0]=780.0, y[0]=1077.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7548614, downTime=7548614, deviceId=0, source=0x1002 }
+03-08 16:01:34.569  2934  2934 I Input   : injectMotionEvent: MotionEvent { action=ACTION_UP, id[0]=0, x[0]=780.0, y[0]=1077.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=7548631, downTime=7548631, deviceId=0, source=0x1002 }
+03-08 16:01:34.569  2934  2934 D AndroidRuntime: Shutting down VM
+03-08 16:01:34.579   196   861 D AudioPolicyManagerBase: getOutput() device 2, stream 1, samplingRate 0, format 0, channelMask 3, flags 0
+03-08 16:01:34.579   196   861 D AudioPolicyManagerBase: getOutput() returns output 2
+03-08 16:01:34.579   196   196 D AudioPolicyManagerBase: getOutput() device 2, stream 1, samplingRate 0, format 0, channelMask 3, flags 0
+03-08 16:01:34.589   196   196 D AudioPolicyManagerBase: getOutput() returns output 2
+03-08 16:01:34.589   196   857 D AudioPolicyManagerBase: getOutput() device 2, stream 1, samplingRate 48000, format 1, channelMask 3, flags 4
+03-08 16:01:34.589   196   857 D AudioPolicyManagerBase: getOutput() returns output 3
+03-08 16:01:34.589   196   861 D AudioFlinger: start(4099), calling pid 617 session 92
+03-08 16:01:34.589   196   861 D AudioFlinger: ? => ACTIVE (4099) on thread 0xb8212210
+03-08 16:01:34.589   196   861 I QCOM PowerHAL: Processing audio hint. Metadata: state=1
+03-08 16:01:34.589   196   861 D AudioPolicyManagerBase: startOutput() output 3, stream 1, session 92
+03-08 16:01:34.599   196   854 V audio_hw_primary: start_output_stream: enter: usecase(1: low-latency-playback) devices(0x2)
+03-08 16:01:34.599   196   854 V msm8974_platform: platform_get_output_snd_device: enter: output devices(0x2)
+03-08 16:01:34.599   196   854 V msm8974_platform: platform_get_output_snd_device: exit: snd_device(speaker)
+03-08 16:01:34.599   196   854 D audio_hw_primary: select_devices: out_snd_device(2: speaker) in_snd_device(0: )
+03-08 16:01:34.599   196   854 W msm8974_platform: Property audio.offload.24bit.enable is set
+03-08 16:01:34.599   196   854 V msm8974_platform: platform_check_and_set_codec_backend_cfg usecase = 1
+03-08 16:01:34.599   196   854 W msm8974_platform: Codec backend bitwidth 16, samplerate 48000
+03-08 16:01:34.599   196   854 V msm8974_platform: Playback running bw 16 sr 48000 standby 0
+03-08 16:01:34.599   196   854 V audio_hw_primary: enable_snd_device: snd_device(2: speaker)
+03-08 16:01:34.609   196   854 V audio_hw_primary: enable_audio_route: enter: usecase(1)
+03-08 16:01:34.609   196   854 V audio_hw_primary: enable_audio_route: apply mixer path: low-latency-playback
+03-08 16:01:34.609   196   854 V audio_hw_primary: enable_audio_route: exit
+03-08 16:01:34.609   196   854 V audio_hw_primary: start_output_stream: Opening PCM device card_id(0) device_id(15)
+03-08 16:01:34.609   196   854 V audio_hw_primary: start_output_stream: exit
+03-08 16:01:34.629   904   904 V PhoneStatusBar: setLightsOn(true)
+03-08 16:01:34.799   196   852 I QCOM PowerHAL: Processing audio hint. Metadata: state=0
+03-08 16:01:37.269  3005  3005 D AndroidRuntime: 
+03-08 16:01:37.269  3005  3005 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:01:37.269  3005  3005 D AndroidRuntime: CheckJNI is OFF
+03-08 16:01:37.289  3005  3005 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:01:37.299  3005  3005 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:01:37.299  3005  3005 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:01:37.299  3005  3005 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:01:37.299  3005  3005 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:01:37.339  3005  3005 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:01:37.559  3005  3005 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+03-08 16:01:37.569  3005  3005 D AndroidRuntime: Shutting down VM
+03-08 16:01:37.569   372   372 D dalvikvm: +++ active profiler count now 0
+03-08 16:01:37.759   196   856 V audio_hw_primary: out_standby: enter: usecase(1: low-latency-playback)
+03-08 16:01:37.829   372   372 I dalvikvm: TRACE STOPPED: writing 58155 records
+03-08 16:01:37.839   196   856 V audio_hw_primary: stop_output_stream: enter: usecase(1: low-latency-playback)
+03-08 16:01:37.839   196   856 V audio_hw_primary: disable_audio_route: enter: usecase(1)
+03-08 16:01:37.849   196   856 V audio_hw_primary: disable_audio_route: reset mixer path: low-latency-playback
+03-08 16:01:37.849   196   856 V audio_hw_primary: disable_audio_route: exit
+03-08 16:01:37.849   196   856 V audio_hw_primary: disable_snd_device: snd_device(2: speaker) refcnt=0
+03-08 16:01:37.849   196   856 V audio_hw_primary: stop_output_stream: exit: status(0)
+03-08 16:01:37.849   196   856 V audio_hw_primary: out_standby: exit
+03-08 16:01:47.539  3260  3260 D AndroidRuntime: 
+03-08 16:01:47.539  3260  3260 D AndroidRuntime: >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+03-08 16:01:47.539  3260  3260 D AndroidRuntime: CheckJNI is OFF
+03-08 16:01:47.569  3260  3260 D dalvikvm: Trying to load lib libjavacore.so 0x0
+03-08 16:01:47.569  3260  3260 D dalvikvm: Added shared lib libjavacore.so 0x0
+03-08 16:01:47.579  3260  3260 D dalvikvm: Trying to load lib libnativehelper.so 0x0
+03-08 16:01:47.579  3260  3260 D dalvikvm: Added shared lib libnativehelper.so 0x0
+03-08 16:01:47.579  3260  3260 D dalvikvm: No JNI_OnLoad found in libnativehelper.so 0x0, skipping init
+03-08 16:01:47.619  3260  3260 D dalvikvm: Note: class Landroid/app/ActivityManagerNative; has 180 unimplemented (abstract) methods
+03-08 16:01:47.939  3260  3260 D AndroidRuntime: Calling main entry com.android.commands.pm.Pm
+03-08 16:01:47.949   617   834 I ActivityManager: Force stopping com.android.yatree.taijiaomusic appid=10874 user=-1: uninstall pkg
+03-08 16:01:47.949   617   834 I ActivityManager: Killing 372:com.android.yatree.taijiaomusic/u0a874 (adj 0): stop com.android.yatree.taijiaomusic
+03-08 16:01:47.949   617   834 W ActivityManager: Scheduling restart of crashed service com.android.yatree.taijiaomusic/com.android.jake.PMService in 1000ms
+03-08 16:01:47.949   617   834 W ActivityManager: Scheduling restart of crashed service com.android.yatree.taijiaomusic/com.android.boot.getADS.MyService in 199570ms
+03-08 16:01:47.949   617   834 W ActivityManager: Force removing ActivityRecord{41b58318 u0 com.android.yatree.taijiaomusic/.tjmusicActivity t48}: app died, no saved state
+03-08 16:01:47.959   617   834 I ActivityManager:   Force stopping service ServiceRecord{41eff5b0 u0 com.android.yatree.taijiaomusic/com.android.boot.getADS.MyService}
+03-08 16:01:47.959   617   834 I ActivityManager:   Force stopping service ServiceRecord{420ff748 u0 com.android.yatree.taijiaomusic/com.android.jake.PMService}
+03-08 16:01:47.979   617   849 W PackageManager: Couldn't delete native library directory /data/app-lib/com.android.yatree.taijiaomusic
+03-08 16:01:48.049   617   825 W WindowManager: Rebuild removed 9 windows but added 7
+03-08 16:01:48.049   617   825 W WindowManager: java.lang.RuntimeException: here
+03-08 16:01:48.049   617   825 W WindowManager: 	at com.android.server.wm.WindowManagerService.rebuildAppWindowListLocked(WindowManagerService.java:8199)
+03-08 16:01:48.049   617   825 W WindowManager: 	at com.android.server.wm.WindowManagerService.rebuildAppWindowListLocked(WindowManagerService.java:8135)
+03-08 16:01:48.049   617   825 W WindowManager: 	at com.android.server.wm.WindowManagerService.handleAppTransitionReadyLocked(WindowManagerService.java:8618)
+03-08 16:01:48.049   617   825 W WindowManager: 	at com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedInner(WindowManagerService.java:9390)
+03-08 16:01:48.049   617   825 W WindowManager: 	at com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLockedLoop(WindowManagerService.java:8351)
+03-08 16:01:48.049   617   825 W WindowManager: 	at com.android.server.wm.WindowManagerService.performLayoutAndPlaceSurfacesLocked(WindowManagerService.java:8293)
+03-08 16:01:48.049   617   825 W WindowManager: 	at com.android.server.wm.WindowManagerService.access$400(WindowManagerService.java:160)
+03-08 16:01:48.049   617   825 W WindowManager: 	at com.android.server.wm.WindowManagerService$H.handleMessage(WindowManagerService.java:7327)
+03-08 16:01:48.049   617   825 W WindowManager: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+03-08 16:01:48.049   617   825 W WindowManager: 	at android.os.Looper.loop(Looper.java:136)
+03-08 16:01:48.049   617   825 W WindowManager: 	at android.os.HandlerThread.run(HandlerThread.java:61)
+03-08 16:01:48.059   617   825 W WindowManager: This window was lost: Window{41b5f600 u0 com.android.yatree.taijiaomusic/com.android.yatree.taijiaomusic.tjmusicActivity}
+03-08 16:01:48.059   617   825 W WindowManager: mDisplayId=0 mSession=Session{41b75688 372:u0a10874} mClient=android.os.BinderProxy@41b745f8
+03-08 16:01:48.059   617   825 W WindowManager: mOwnerUid=10874 mShowToOwnerOnly=true package=com.android.yatree.taijiaomusic appop=NONE
+03-08 16:01:48.059   617   825 W WindowManager: mAttrs=WM.LayoutParams{(0,0)(fillxfill) sim=#110 ty=1 fl=#41810100 pfl=0x8 wanim=0x1030001}
+03-08 16:01:48.059   617   825 W WindowManager: Requested w=1080 h=1776 mLayoutSeq=1694
+03-08 16:01:48.059   617   825 W WindowManager: mBaseLayer=21000 mSubLayer=0 mAnimLayer=21040+0=21040 mLastLayer=21040
+03-08 16:01:48.059   617   825 W WindowManager: mToken=AppWindowToken{41d00420 token=Token{41c10810 ActivityRecord{41b58318 u0 com.android.yatree.taijiaomusic/.tjmusicActivity t48}}}
+03-08 16:01:48.059   617   825 W WindowManager: mRootToken=AppWindowToken{41d00420 token=Token{41c10810 ActivityRecord{41b58318 u0 com.android.yatree.taijiaomusic/.tjmusicActivity t48}}}
+03-08 16:01:48.059   617   825 W WindowManager: mAppToken=AppWindowToken{41d00420 token=Token{41c10810 ActivityRecord{41b58318 u0 com.android.yatree.taijiaomusic/.tjmusicActivity t48}}}
+03-08 16:01:48.059   617   825 W WindowManager: mViewVisibility=0x0 mHaveFrame=true mObscured=false
+03-08 16:01:48.059   617   825 W WindowManager: mSeq=0 mSystemUiVisibility=0x0
+03-08 16:01:48.059   617   825 W WindowManager: mGivenContentInsets=[0,0][0,0] mGivenVisibleInsets=[0,0][0,0]
+03-08 16:01:48.059   617   825 W WindowManager: mConfiguration={1.0 ?mcc?mnc zh_CN ldltr sw360dp w360dp h567dp 480dpi nrml port finger -keyb/v/h -nav/h s.14 themeResource=null}
+03-08 16:01:48.059   617   825 W WindowManager: mHasSurface=true mShownFrame=[0.0,0.0][1080.0,1776.0] isReadyForDisplay()=false
+03-08 16:01:48.059   617   825 W WindowManager: mFrame=[0,0][1080,1776] last=[0,0][1080,1776]
+03-08 16:01:48.059   617   825 W WindowManager: mSystemDecorRect=[0,75][1080,1776] last=[0,75][1080,1776]
+03-08 16:01:48.059   617   825 W WindowManager: Frames: containing=[0,0][1080,1776] parent=[0,0][1080,1776]
+03-08 16:01:48.059   617   825 W WindowManager:     display=[0,0][1080,1776] overscan=[0,0][1080,1920]
+03-08 16:01:48.059   617   825 W WindowManager:     content=[0,75][1080,1776] visible=[0,75][1080,1776]
+03-08 16:01:48.059   617   825 W WindowManager:     decor=[0,75][1080,1776]
+03-08 16:01:48.059   617   825 W WindowManager: Cur insets: overscan=[0,0][0,0] content=[0,75][0,0] visible=[0,75][0,0]
+03-08 16:01:48.059   617   825 W WindowManager: Lst insets: overscan=[0,0][0,0] content=[0,75][0,0] visible=[0,75][0,0]
+03-08 16:01:48.059   617   825 W WindowManager: WindowStateAnimator{41a225f8 com.android.yatree.taijiaomusic/com.android.yatree.taijiaomusic.tjmusicActivity}:
+03-08 16:01:48.059   617   825 W WindowManager:   mSurface=Surface(name=com.android.yatree.taijiaomusic/com.android.yatree.taijiaomusic.tjmusicActivity)
+03-08 16:01:48.059   617   825 W WindowManager:   mDrawState=HAS_DRAWN mLastHidden=true
+03-08 16:01:48.059   617   825 W WindowManager:   Surface: shown=false layer=21040 alpha=1.0 rect=(0.0,0.0) 1080.0 x 1776.0
+03-08 16:01:48.059   617   825 W WindowManager: mWallpaperXOverscrollMax=0 mWallpaperYOverscrollMax=0
+03-08 16:01:48.059   617   825 W WindowManager: This window was lost: Window{41b60860 u0 com.android.yatree.taijiaomusic/com.android.yatree.taijiaomusic.tjmusicActivity}
+03-08 16:01:48.059   617   825 W WindowManager: mDisplayId=0 mSession=Session{41b75688 372:u0a10874} mClient=android.os.BinderProxy@4227ad28
+03-08 16:01:48.059   617   825 W WindowManager: mOwnerUid=10874 mShowToOwnerOnly=true package=com.android.yatree.taijiaomusic appop=NONE
+03-08 16:01:48.059   617   825 W WindowManager: mAttrs=WM.LayoutParams{(0,0)(wrapxwrap) gr=#11 sim=#120 ty=2 fl=#1820002 pfl=0x8 fmt=-2 wanim=0x1030002}
+03-08 16:01:48.059   617   825 W WindowManager: Requested w=736 h=345 mLayoutSeq=1664
+03-08 16:01:48.059   617   825 W WindowManager: mBaseLayer=21000 mSubLayer=0 mAnimLayer=21045+0=21045 mLastLayer=21045
+03-08 16:01:48.059   617   825 W WindowManager: mToken=AppWindowToken{41d00420 token=Token{41c10810 ActivityRecord{41b58318 u0 com.android.yatree.taijiaomusic/.tjmusicActivity t48}}}
+03-08 16:01:48.059   617   825 W WindowManager: mRootToken=AppWindowToken{41d00420 token=Token{41c10810 ActivityRecord{41b58318 u0 com.android.yatree.taijiaomusic/.tjmusicActivity t48}}}
+03-08 16:01:48.059   617   825 W WindowManager: mAppToken=AppWindowToken{41d00420 token=Token{41c10810 ActivityRecord{41b58318 u0 com.android.yatree.taijiaomusic/.tjmusicActivity t48}}}
+03-08 16:01:48.059   617   825 W WindowManager: mViewVisibility=0x8 mHaveFrame=true mObscured=false
+03-08 16:01:48.059   617   825 W WindowManager: mSeq=0 mSystemUiVisibility=0x0
+03-08 16:01:48.059   617   825 W WindowManager: mGivenContentInsets=[0,0][0,0] mGivenVisibleInsets=[0,0][0,0]
+03-08 16:01:48.059   617   825 W WindowManager: mConfiguration={1.0 ?mcc?mnc zh_CN ldltr sw360dp w360dp h567dp 480dpi nrml port finger -keyb/v/h -nav/h s.14 themeResource=null}
+03-08 16:01:48.059   617   825 W WindowManager: mHasSurface=false mShownFrame=[172.0,753.0][908.0,1098.0] isReadyForDisplay()=false
+03-08 16:01:48.059   617   825 W WindowManager: mFrame=[172,753][908,1098] last=[172,753][908,1098]
+03-08 16:01:48.059   617   825 W WindowManager: mSystemDecorRect=[0,0][736,345] last=[0,0][736,345]
+03-08 16:01:48.059   617   825 W WindowManager: Frames: containing=[0,75][1080,1776] parent=[0,75][1080,1776]
+03-08 16:01:48.059   617   825 W WindowManager:     display=[0,75][1080,1776] overscan=[0,75][1080,1776]
+03-08 16:01:48.059   617   825 W WindowManager:     content=[172,753][908,1098] visible=[172,753][908,1098]
+03-08 16:01:48.059   617   825 W WindowManager:     decor=[0,75][1080,1776]
+03-08 16:01:48.059   617   825 W WindowManager: Cur insets: overscan=[0,0][0,0] content=[0,0][0,0] visible=[0,0][0,0]
+03-08 16:01:48.059   617   825 W WindowManager: Lst insets: overscan=[0,0][0,0] content=[0,0][0,0] visible=[0,0][0,0]
+03-08 16:01:48.059   617   825 W WindowManager: WindowStateAnimator{41b0dfb0 com.android.yatree.taijiaomusic/com.android.yatree.taijiaomusic.tjmusicActivity}:
+03-08 16:01:48.059   617   825 W WindowManager:   mShownAlpha=1.0 mAlpha=1.0 mLastAlpha=0.0
+03-08 16:01:48.059   617   825 W WindowManager: mWallpaperXOverscrollMax=0 mWallpaperYOverscrollMax=0
+03-08 16:01:48.059   617   825 W WindowManager: Current app token list:
+03-08 16:01:48.059   617   825 V WindowManager:   Display 0
+03-08 16:01:48.059   617   825 V WindowManager:   #5: Token{41f13ba8 ActivityRecord{41e27e48 u0 com.cyanogenmod.trebuchet/org.cyanogenmod.trebuchet.CustomHomeLauncher t1}}
+03-08 16:01:48.059   617   825 V WindowManager:   #4: Token{41d03e98 ActivityRecord{41bd6340 u0 com.android.packageinstaller/.PackageInstallerActivity t31}}
+03-08 16:01:48.059   617   825 V WindowManager:   #3: Token{41f8f0d8 ActivityRecord{41f8ef78 u0 com.android.packageinstaller/.PackageInstallerActivity t31}}
+03-08 16:01:48.059   617   825 V WindowManager:   #2: Token{422105a0 ActivityRecord{4211a8b8 u0 com.android.packageinstaller/.PackageInstallerActivity t31}}
+03-08 16:01:48.059   617   825 V WindowManager:   #1: Token{41b51270 ActivityRecord{41a9c4c0 u0 com.android.browser/.BrowserActivity t40}}
+03-08 16:01:48.059   617   825 V WindowManager:   #0: Token{41dba188 ActivityRecord{41a8feb0 u0 com.android.wallpaper.livepicker/.LiveWallpaperPreview t39}}
+03-08 16:01:48.059   617   825 W WindowManager: Final window list:
+03-08 16:01:48.059   617   825 V WindowManager:   #0: Window{421318b0 u0 SearchPanel}
+03-08 16:01:48.059   617   825 V WindowManager:   #1: Window{41aba428 u0 NavigationBar}
+03-08 16:01:48.059   617   825 V WindowManager:   #2: Window{41d737b8 u0 StatusBar}
+03-08 16:01:48.059   617   825 V WindowManager:   #3: Window{41a837a0 u0 KeyguardScrim}
+03-08 16:01:48.059   617   825 V WindowManager:   #4: Window{41c594a8 u0 com.cyanogenmod.trebuchet/org.cyanogenmod.trebuchet.CustomHomeLauncher}
+03-08 16:01:48.059   617   825 V WindowManager:   #5: Window{41b7e6b8 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+03-08 16:01:48.059   617   825 V WindowManager:   #6: Window{41aab8b8 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+03-08 16:01:48.059   617   825 V WindowManager:   #7: Window{4219c010 u0 com.android.packageinstaller/com.android.packageinstaller.PackageInstallerActivity}
+03-08 16:01:48.059   617   825 V WindowManager:   #8: Window{41b7f658 u0 com.android.browser/com.android.browser.BrowserActivity}
+03-08 16:01:48.059   617   825 V WindowManager:   #9: Window{41b77338 u0 com.android.wallpaper.livepicker/com.android.wallpaper.livepicker.LiveWallpaperPreview}
+03-08 16:01:48.059   617   825 V WindowManager:   #10: Window{41ed3088 u0 Media:com.android.wallpaper.livepicker/com.android.wallpaper.livepicker.LiveWallpaperPreview}
+03-08 16:01:48.059   617   825 V WindowManager:   #11: Window{41c7ae28 u0 com.android.systemui.ImageWallpaper}
+03-08 16:01:48.119  1109  1109 I Timeline: Timeline: Activity_idle id: android.os.BinderProxy@419fffe8 time:7562182
+03-08 16:01:48.129   617   634 I WindowState: WIN DEATH: Window{41b5f600 u0 com.android.yatree.taijiaomusic/com.android.yatree.taijiaomusic.tjmusicActivity}
+03-08 16:01:48.129   617   633 I WindowState: WIN DEATH: Window{41b60860 u0 com.android.yatree.taijiaomusic/com.android.yatree.taijiaomusic.tjmusicActivity}
+03-08 16:01:48.169   198   198 D keystore: calling clear_uid in state: 3
+03-08 16:01:48.169   617   849 I ActivityManager: Force stopping com.android.yatree.taijiaomusic appid=10874 user=0: pkg removed
+03-08 16:01:48.199   617   617 D BackupManagerService: Received broadcast Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.android.yatree.taijiaomusic flg=0x4000010 (has extras) }
+03-08 16:01:48.199   617   617 V BackupManagerService: removePackageParticipantsLocked: uid=10874 #1
+03-08 16:01:48.209   617   876 I InputReader: Reconfiguring input devices.  changes=0x00000010
+03-08 16:01:48.209   540  7664 D Documents: Used cached roots for com.android.providers.downloads.documents
+03-08 16:01:48.209   540  7664 D Documents: Used cached roots for com.android.externalstorage.documents
+03-08 16:01:48.219   617  7020 I PackageManager:   Action: "android.intent.action.SENDTO"
+03-08 16:01:48.219   617  7020 I PackageManager:   Category: "android.intent.category.DEFAULT"
+03-08 16:01:48.219   617  7020 I PackageManager:   Scheme: "sms"
+03-08 16:01:48.219   617  7020 I PackageManager: Adding preferred activity ComponentInfo{com.android.mms/com.android.mms.ui.ComposeMessageActivity} for user 0 :
+03-08 16:01:48.229   540  7664 D Documents: Used cached roots for com.android.providers.media.documents
+03-08 16:01:48.229   540  7664 D Documents: Update found 6 roots in 39ms
+03-08 16:01:48.229  1023  3288 I LatinIME:LogUtils: Dictionary info: dictionary = ? ; version = 26 ; date = 1351062238
+03-08 16:01:48.239   617   408 I PackageManager:   Action: "android.intent.action.SENDTO"
+03-08 16:01:48.239   617   408 I PackageManager:   Category: "android.intent.category.DEFAULT"
+03-08 16:01:48.239   617   408 I PackageManager:   Scheme: "smsto"
+03-08 16:01:48.239  3472  3483 W CursorWrapperInner: Cursor finalized without prior close()
+03-08 16:01:48.239   617   408 I PackageManager: Adding preferred activity ComponentInfo{com.android.mms/com.android.mms.ui.ComposeMessageActivity} for user 0 :
+03-08 16:01:48.259   617  1136 I PackageManager:   Action: "android.intent.action.SENDTO"
+03-08 16:01:48.259   617  1136 I PackageManager:   Category: "android.intent.category.DEFAULT"
+03-08 16:01:48.259   617  1136 I PackageManager:   Scheme: "mms"
+03-08 16:01:48.259  3431  3292 D VoicemailCleanupService: Cleaning up data for package: com.android.yatree.taijiaomusic
+03-08 16:01:48.259   617  1136 I PackageManager: Adding preferred activity ComponentInfo{com.android.mms/com.android.mms.ui.ComposeMessageActivity} for user 0 :
+03-08 16:01:48.279   617   408 I PackageManager:   Action: "android.intent.action.SENDTO"
+03-08 16:01:48.279   617   408 I PackageManager:   Category: "android.intent.category.DEFAULT"
+03-08 16:01:48.279   617   408 I PackageManager:   Scheme: "mmsto"
+03-08 16:01:48.279   617   408 I PackageManager: Adding preferred activity ComponentInfo{com.android.mms/com.android.mms.ui.ComposeMessageActivity} for user 0 :
+03-08 16:01:48.329   617   410 I PackageManager:   Action: "android.intent.action.SENDTO"
+03-08 16:01:48.329   617   410 I PackageManager:   Category: "android.intent.category.DEFAULT"
+03-08 16:01:48.329   617   410 I PackageManager:   Scheme: "sms"
+03-08 16:01:48.329   617   410 I PackageManager: Adding preferred activity ComponentInfo{com.android.mms/com.android.mms.ui.ComposeMessageActivity} for user 0 :
+03-08 16:01:48.379  1109  1109 D Launcher.Workspace: 11683562 - stripEmptyScreens()
+03-08 16:01:48.379   617   409 I PackageManager:   Action: "android.intent.action.SENDTO"
+03-08 16:01:48.379   617   409 I PackageManager: Adding preferred activity ComponentInfo{com.android.mms/com.android.mms.ui.ComposeMessageActivity} for user 0 :
+03-08 16:01:48.389   617   409 I PackageManager:   Category: "android.intent.category.DEFAULT"
+03-08 16:01:48.389   617   409 I PackageManager:   Scheme: "smsto"
+03-08 16:01:48.389  1109  1109 D Launcher.Workspace: 11683562 - stripEmptyScreens()
+03-08 16:01:48.409   617   408 I PackageManager:   Action: "android.intent.action.SENDTO"
+03-08 16:01:48.409   617   408 I PackageManager:   Category: "android.intent.category.DEFAULT"
+03-08 16:01:48.409   617   408 I PackageManager:   Scheme: "mms"
+03-08 16:01:48.409   617   408 I PackageManager: Adding preferred activity ComponentInfo{com.android.mms/com.android.mms.ui.ComposeMessageActivity} for user 0 :
+03-08 16:01:48.429   617  1136 I PackageManager:   Action: "android.intent.action.SENDTO"
+03-08 16:01:48.429   617  1136 I PackageManager:   Category: "android.intent.category.DEFAULT"
+03-08 16:01:48.429   617  1136 I PackageManager:   Scheme: "mmsto"
+03-08 16:01:48.429   617  1136 I PackageManager: Adding preferred activity ComponentInfo{com.android.mms/com.android.mms.ui.ComposeMessageActivity} for user 0 :
+03-08 16:01:48.439  3260  3260 D AndroidRuntime: Shutting down VM
+03-08 16:01:48.469  1109  1109 W Launcher: setApplicationContext called twice! old=com.android.launcher3.LauncherApplication@41a0a3b8 new=com.android.launcher3.LauncherApplication@41a0a3b8
+03-08 16:01:48.479   617   825 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{41e27e48 u0 com.cyanogenmod.trebuchet/org.cyanogenmod.trebuchet.CustomHomeLauncher t1} time:7562543
+03-08 16:01:48.489   617   835 W Searchables: No global search activity found
+03-08 16:01:48.489 21214 21214 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1543 android.content.ContextWrapper.startService:494 android.content.ContextWrapper.startService:494 com.android.keychain.KeyChainBroadcastReceiver.onReceive:12 android.app.ActivityThread.handleReceiver:2445 

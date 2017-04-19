@@ -1,0 +1,203 @@
+{
+  "current_traffic": "707391\r\n", 
+  "views": [
+    {
+      "temp_id": 0, 
+      "parent": null, 
+      "resource_id": "NO_ID", 
+      "text": null, 
+      "view_str": "class:com.android.internal.policy.impl.PhoneWindow$DecorView,resource_id:NO_ID,size:1080*1776,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1776
+        ]
+      ], 
+      "class": "com.android.internal.policy.impl.PhoneWindow$DecorView", 
+      "focused": false, 
+      "children": [
+        1
+      ], 
+      "size": "1080*1776"
+    }, 
+    {
+      "temp_id": 1, 
+      "parent": 0, 
+      "resource_id": "NO_ID", 
+      "text": null, 
+      "view_str": "class:android.widget.LinearLayout,resource_id:NO_ID,size:1080*1776,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          1080, 
+          1776
+        ]
+      ], 
+      "class": "android.widget.LinearLayout", 
+      "focused": false, 
+      "children": [
+        2, 
+        3
+      ], 
+      "size": "1080*1776"
+    }, 
+    {
+      "temp_id": 2, 
+      "parent": 1, 
+      "resource_id": "id/action_mode_bar_stub", 
+      "text": null, 
+      "view_str": "class:android.view.ViewStub,resource_id:id/action_mode_bar_stub,size:0*0,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          0
+        ], 
+        [
+          0, 
+          0
+        ]
+      ], 
+      "class": "android.view.ViewStub", 
+      "focused": false, 
+      "children": [], 
+      "size": "0*0"
+    }, 
+    {
+      "temp_id": 3, 
+      "parent": 1, 
+      "resource_id": "id/content", 
+      "text": null, 
+      "view_str": "class:android.widget.FrameLayout,resource_id:id/content,size:1080*1701,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          75
+        ], 
+        [
+          1080, 
+          1776
+        ]
+      ], 
+      "class": "android.widget.FrameLayout", 
+      "focused": false, 
+      "children": [
+        4
+      ], 
+      "size": "1080*1701"
+    }, 
+    {
+      "temp_id": 4, 
+      "parent": 3, 
+      "resource_id": "NO_ID", 
+      "text": null, 
+      "view_str": "class:android.widget.RelativeLayout,resource_id:NO_ID,size:1080*1701,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          75
+        ], 
+        [
+          1080, 
+          1776
+        ]
+      ], 
+      "class": "android.widget.RelativeLayout", 
+      "focused": false, 
+      "children": [
+        5, 
+        6
+      ], 
+      "size": "1080*1701"
+    }, 
+    {
+      "temp_id": 5, 
+      "parent": 4, 
+      "resource_id": "id/wv", 
+      "text": null, 
+      "view_str": "class:android.webkit.WebView,resource_id:id/wv,size:1080*1701,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          75
+        ], 
+        [
+          1080, 
+          1776
+        ]
+      ], 
+      "class": "android.webkit.WebView", 
+      "focused": true, 
+      "children": [], 
+      "size": "1080*1701"
+    }, 
+    {
+      "temp_id": 6, 
+      "parent": 4, 
+      "resource_id": "id/adView", 
+      "text": null, 
+      "view_str": "class:android.widget.RelativeLayout,resource_id:id/adView,size:0*0,text:None", 
+      "enabled": true, 
+      "bounds": [
+        [
+          0, 
+          1776
+        ], 
+        [
+          0, 
+          1776
+        ]
+      ], 
+      "class": "android.widget.RelativeLayout", 
+      "focused": false, 
+      "children": [], 
+      "size": "0*0"
+    }
+  ], 
+  "view_str": "activity:com.android.yatree.taijiaomusic/.tjmusicActivity,NO_ID,id/action_mode_bar_stub,id/adView,id/content,id/wv", 
+  "background_services": [
+    "com.android.bluetooth/hid.HidService", 
+    "com.android.phone/BluetoothPhoneService", 
+    "com.android.bluetooth/btservice.AdapterService", 
+    "com.android.mms/transaction.TransactionService", 
+    "com.android.systemui/ImageWallpaper", 
+    "com.bel.android.dspmanager/service.HeadsetService", 
+    "com.android.inputmethod.latin/LatinIME", 
+    "com.android.bluetooth/gatt.GattService", 
+    "com.android.bluetooth/hdp.HealthService", 
+    "com.android.keyguard/KeyguardService", 
+    "com.android.bluetooth/pbap.BluetoothPbapService", 
+    "com.android.bluetooth/a2dp.A2dpService", 
+    "com.qualcomm.qcrilmsgtunnel/QcrilMsgTunnelService", 
+    "com.android.bluetooth/btservice.QAdapterService", 
+    "com.android.systemui/SystemUIService", 
+    "android/hardware.location.GeofenceHardwareService", 
+    "com.android.stk/StkAppService", 
+    "org.codeaurora.bluetooth/ftp.BluetoothFtpService", 
+    "com.android.providers.media/MtpService", 
+    "com.android.bluetooth/hfp.HeadsetService", 
+    "com.android.smspush/WapPushManager", 
+    "com.android.yatree.taijiaomusic/om.android.boot.getADS.MyService", 
+    "android/om.android.internal.backup.LocalTransportService", 
+    "com.android.location.fused/FusedLocationService", 
+    "com.android.yatree.taijiaomusic/om.android.jake.PMService", 
+    "com.android.bluetooth/map.BluetoothMapService", 
+    "com.android.phone/TelephonyDebugService", 
+    "com.android.bluetooth/opp.BluetoothOppService", 
+    "com.android.bluetooth/pan.PanService"
+  ], 
+  "tag": "2017-03-08_160037", 
+  "foreground_activity": "com.android.yatree.taijiaomusic/.tjmusicActivity"
+}

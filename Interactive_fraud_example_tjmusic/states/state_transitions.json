@@ -1,0 +1,22 @@
+[
+  [
+    "class:android.widget.Button,resource_id:id/button2,size:474*144,text:\u4e0d\u786e\u5b9a", 
+    "2017-03-08_160128", 
+    "2017-03-08_160145"
+  ], 
+  [
+    "BACK_com.android.yatree.taijiaomusic/.tjmusicActivity", 
+    "2017-03-08_160052", 
+    "2017-03-08_160110"
+  ], 
+  [
+    "class:android.widget.Button,resource_id:id/0x8765405,size:378*99,text:\u7acb\u5373\u4f53\u9a8c", 
+    "2017-03-08_160110", 
+    "2017-03-08_160128"
+  ], 
+  [
+    "class:com.pop.is.ar,resource_id:id/0x8765403,size:810*810,text:None", 
+    "2017-03-08_160020", 
+    "2017-03-08_160037"
+  ]
+]

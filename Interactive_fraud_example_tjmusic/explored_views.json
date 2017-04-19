@@ -1,0 +1,22 @@
+[
+  [
+    "com.android.yatree.taijiaomusic/com.ucn.ydpin.Ajij", 
+    "class:android.widget.Button,resource_id:id/0x8765405,size:378*99,text:\u7acb\u5373\u4f53\u9a8c"
+  ], 
+  [
+    "com.android.yatree.taijiaomusic/.tjmusicActivity", 
+    "BACK_com.android.yatree.taijiaomusic/.tjmusicActivity"
+  ], 
+  [
+    "com.android.yatree.taijiaomusic/com.ucn.ydpin.Ajij", 
+    "class:com.pop.is.ar,resource_id:id/0x8765403,size:810*810,text:None"
+  ], 
+  [
+    "com.android.yatree.taijiaomusic/.tjmusicActivity", 
+    "class:android.widget.Button,resource_id:id/button2,size:474*144,text:\u4e0d\u786e\u5b9a"
+  ], 
+  [
+    "com.android.yatree.taijiaomusic/.tjmusicActivity", 
+    "class:android.webkit.WebView,resource_id:id/wv,size:1080*1701,text:None"
+  ]
+]
